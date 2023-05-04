@@ -1,0 +1,501 @@
+customer_policy_number,months_as_customer,policy_state,policy_deductable,policy_annual_premium,insured_sex,insured_education_level,insured_occupation,insured_relationship,age,accident_policy_number,incident_type,collision_type,incident_severity,incident_state,incident_hour_of_the_day,number_of_vehicles_involved,property_damage,bodily_injuries,total_claim_amount,injury_claim,property_claim,auto_make,auto_year,vehicle_claim
+388671,140,OH,2000,1554.86,FEMALE,JD,armed-forces,wife,31,388671,Parked Car,?,Minor Damage,WV,2,1,YES,1,6120,680,680,Honda,2002,4760
+390381,190,OH,2000,965.21,FEMALE,JD,exec-managerial,other-relative,40,390381,Parked Car,?,Trivial Damage,SC,10,1,?,2,6300,630,630,Nissan,2001,5040
+159243,64,IL,2000,1681.01,MALE,JD,protective-serv,own-child,30,159243,Parked Car,?,Minor Damage,SC,16,1,NO,2,4900,490,1470,Jeep,2015,2940
+774895,17,IL,1000,840.95,FEMALE,JD,adm-clerical,unmarried,39,774895,Parked Car,?,Trivial Damage,SC,9,1,?,2,3440,430,430,Suburu,2002,2580
+159768,85,IN,500,1259.02,FEMALE,JD,tech-support,unmarried,25,159768,Parked Car,?,Trivial Damage,SC,8,1,NO,2,5640,940,940,Nissan,2005,3760
+205134,125,IN,500,1220.86,MALE,JD,other-service,husband,31,205134,Parked Car,?,Trivial Damage,NY,4,1,YES,1,4320,0,960,Saab,2003,3360
+743092,239,OH,1000,1325.44,FEMALE,JD,farming-fishing,other-relative,41,743092,Parked Car,?,Trivial Damage,NC,22,1,?,0,10790,1660,830,Mercedes,2013,8300
+426708,267,IL,500,1155.53,MALE,JD,transport-moving,wife,40,426708,Parked Car,?,Trivial Damage,NY,5,1,?,0,5670,1260,630,Ford,1997,3780
+933293,289,IL,2000,1222.48,FEMALE,JD,priv-house-serv,unmarried,49,933293,Parked Car,?,Minor Damage,WV,16,1,NO,1,5330,1230,820,Suburu,2001,3280
+276804,3,IL,500,995.7,FEMALE,JD,priv-house-serv,unmarried,29,276804,Parked Car,?,Trivial Damage,PA,3,1,?,2,5000,500,1000,Mercedes,2008,3500
+467841,133,IN,500,1074.07,FEMALE,JD,prof-specialty,husband,34,467841,Parked Car,?,Minor Damage,WV,8,1,NO,2,4200,420,840,Jeep,2013,2940
+180720,61,IN,1000,1115.27,MALE,JD,handlers-cleaners,unmarried,29,180720,Parked Car,?,Trivial Damage,VA,10,1,YES,2,5900,590,590,Nissan,2010,4720
+218456,245,IL,1000,1575.74,MALE,JD,exec-managerial,other-relative,42,218456,Parked Car,?,Minor Damage,PA,19,1,?,2,6490,590,1180,Toyota,2011,4720
+963680,283,OH,1000,1474.66,FEMALE,JD,sales,husband,48,963680,Parked Car,?,Trivial Damage,NY,9,1,?,2,6560,820,820,Volkswagen,2003,4920
+153027,137,IN,500,1667.83,MALE,JD,prof-specialty,husband,35,153027,Parked Car,?,Minor Damage,WV,4,1,YES,1,6600,1200,1200,Jeep,2005,4200
+299796,428,IN,500,1344.36,FEMALE,JD,prof-specialty,other-relative,59,299796,Parked Car,?,Minor Damage,WV,8,1,?,2,6500,1300,650,Saab,2013,4550
+312940,120,IN,1000,1056.71,FEMALE,JD,protective-serv,not-in-family,34,312940,Parked Car,?,Minor Damage,VA,3,1,NO,2,3770,580,580,Jeep,2002,2610
+309323,78,OH,500,1060.88,MALE,JD,other-service,other-relative,27,309323,Parked Car,?,Trivial Damage,SC,4,1,NO,0,6050,550,1100,Volkswagen,2009,4400
+627540,194,OH,1000,1489.24,FEMALE,JD,other-service,wife,39,627540,Vehicle Theft,?,Minor Damage,SC,15,1,YES,2,8060,1240,1240,Saab,2004,5580
+863749,295,IN,500,1265.84,FEMALE,JD,prof-specialty,own-child,46,863749,Vehicle Theft,?,Minor Damage,VA,10,1,YES,1,4560,760,380,Nissan,2007,3420
+840806,339,IN,2000,1570.77,MALE,JD,adm-clerical,not-in-family,49,840806,Vehicle Theft,?,Minor Damage,SC,13,1,NO,0,6820,1240,620,Mercedes,2009,4960
+854021,136,OH,500,1203.24,FEMALE,JD,transport-moving,other-relative,29,854021,Vehicle Theft,?,Minor Damage,NY,9,1,?,2,6200,1240,620,Honda,1999,4340
+537546,91,IL,2000,1073.83,FEMALE,JD,farming-fishing,husband,27,537546,Vehicle Theft,?,Trivial Damage,NY,4,1,?,1,7260,1320,660,BMW,2008,5280
+134430,238,IN,2000,1488.02,FEMALE,JD,protective-serv,other-relative,39,134430,Vehicle Theft,?,Minor Damage,NY,9,1,YES,1,5500,1100,550,Chevrolet,2010,3850
+619589,41,IL,1000,1383.13,FEMALE,JD,prof-specialty,own-child,26,619589,Vehicle Theft,?,Trivial Damage,SC,12,1,YES,1,6890,530,1060,Jeep,1997,5300
+608513,202,IN,500,848.07,MALE,JD,exec-managerial,not-in-family,34,608513,Vehicle Theft,?,Minor Damage,VA,5,1,YES,2,5720,1040,520,Suburu,2003,4160
+950880,210,IN,500,999.52,MALE,JD,tech-support,other-relative,38,950880,Vehicle Theft,?,Minor Damage,VA,6,1,?,1,8640,1440,720,Accura,2008,6480
+528259,370,IN,2000,1389.13,MALE,JD,other-service,wife,55,528259,Vehicle Theft,?,Minor Damage,NC,6,1,?,0,9000,900,1800,Mercedes,2015,6300
+771509,274,IN,500,1395.58,FEMALE,JD,tech-support,husband,44,771509,Vehicle Theft,?,Minor Damage,WV,7,1,NO,2,5590,860,860,BMW,2000,3870
+165485,106,IL,2000,1320.75,FEMALE,JD,farming-fishing,wife,31,165485,Multi-vehicle Collision,Rear Collision,Total Loss,WV,20,3,?,0,45630,5070,5070,Accura,2011,35490
+303987,245,IL,1000,1168.2,MALE,JD,handlers-cleaners,husband,44,303987,Multi-vehicle Collision,Side Collision,Total Loss,OH,23,3,NO,0,44280,7380,3690,Honda,1997,33210
+436126,343,IN,500,1451.54,MALE,JD,adm-clerical,husband,48,436126,Multi-vehicle Collision,Side Collision,Total Loss,SC,13,4,NO,2,65070,7230,14460,Mercedes,2003,43380
+187775,269,OH,500,1297.75,FEMALE,JD,other-service,own-child,44,187775,Multi-vehicle Collision,Rear Collision,Total Loss,SC,15,3,?,0,98670,15180,15180,Chevrolet,2010,68310
+509489,158,OH,1000,1744.64,MALE,JD,prof-specialty,unmarried,33,509489,Multi-vehicle Collision,Rear Collision,Total Loss,WV,4,3,NO,0,36400,3640,7280,Volkswagen,1998,25480
+167466,212,OH,1000,1255.35,FEMALE,JD,protective-serv,not-in-family,39,167466,Multi-vehicle Collision,Rear Collision,Total Loss,NY,22,2,NO,0,59300,11860,5930,Dodge,2008,41510
+727109,98,IN,2000,1082.1,MALE,JD,exec-managerial,other-relative,26,727109,Multi-vehicle Collision,Front Collision,Total Loss,WV,13,2,?,0,65430,14540,7270,Jeep,2001,43620
+840225,154,OH,1000,1041.36,FEMALE,JD,priv-house-serv,husband,34,840225,Multi-vehicle Collision,Side Collision,Total Loss,WV,18,4,?,2,74360,13520,13520,Toyota,2005,47320
+896890,241,IL,2000,1042.26,MALE,JD,sales,husband,39,896890,Multi-vehicle Collision,Rear Collision,Total Loss,WV,21,3,NO,1,19080,4240,2120,Saab,1995,12720
+185124,169,IL,1000,936.19,MALE,JD,armed-forces,other-relative,37,185124,Multi-vehicle Collision,Side Collision,Total Loss,SC,4,3,?,2,57900,17370,5790,Audi,2005,34740
+684193,224,IL,1000,1128.71,FEMALE,JD,prof-specialty,other-relative,39,684193,Multi-vehicle Collision,Rear Collision,Total Loss,VA,21,3,YES,2,61800,12360,6180,Suburu,2007,43260
+965768,206,IN,1000,1302.4,MALE,JD,craft-repair,unmarried,39,965768,Multi-vehicle Collision,Rear Collision,Total Loss,NY,12,3,NO,2,36300,3300,9900,Ford,2013,23100
+127313,163,IN,1000,1004.63,MALE,JD,priv-house-serv,not-in-family,31,127313,Multi-vehicle Collision,Rear Collision,Total Loss,SC,14,3,YES,2,63910,5810,11620,Suburu,1999,46480
+238196,194,IL,500,1203.81,MALE,JD,transport-moving,not-in-family,41,238196,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,17,3,?,0,95900,13700,20550,Saab,1999,61650
+342830,64,IL,1000,1468.82,MALE,JD,handlers-cleaners,other-relative,28,342830,Multi-vehicle Collision,Side Collision,Minor Damage,SC,9,3,NO,2,60000,5000,10000,Honda,1997,45000
+845751,240,IN,500,1533.71,FEMALE,JD,protective-serv,own-child,40,845751,Multi-vehicle Collision,Rear Collision,Total Loss,VA,18,2,YES,0,66550,6050,12100,Ford,2008,48400
+753056,140,IN,500,1363.59,FEMALE,JD,armed-forces,not-in-family,36,753056,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,10,3,?,2,79500,7950,7950,Chevrolet,2000,63600
+727792,107,OH,500,974.59,FEMALE,JD,armed-forces,wife,26,727792,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,14,3,?,1,59700,11940,11940,Nissan,2002,35820
+357394,77,IL,2000,785.82,MALE,JD,exec-managerial,other-relative,26,357394,Multi-vehicle Collision,Rear Collision,Major Damage,NY,12,3,YES,2,69080,12560,6280,Audi,2009,50240
+330506,259,OH,1000,1422.36,FEMALE,JD,craft-repair,unmarried,39,330506,Multi-vehicle Collision,Side Collision,Minor Damage,PA,12,3,NO,1,46560,7760,7760,Nissan,2012,31040
+512813,108,IL,2000,694.45,FEMALE,JD,armed-forces,not-in-family,33,512813,Multi-vehicle Collision,Side Collision,Major Damage,WV,6,3,?,0,64350,5850,11700,Nissan,2011,46800
+736771,230,IN,1000,1464.03,MALE,JD,transport-moving,own-child,41,736771,Multi-vehicle Collision,Side Collision,Minor Damage,NY,19,3,?,2,53040,4420,4420,Audi,2006,44200
+250833,186,IN,2000,1347.31,FEMALE,JD,protective-serv,unmarried,38,250833,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,1,3,NO,2,73800,12300,12300,Audi,1995,49200
+596914,126,IN,500,1508.9,FEMALE,JD,machine-op-inspct,other-relative,28,596914,Multi-vehicle Collision,Rear Collision,Total Loss,WV,3,4,NO,0,67800,11300,11300,Ford,2011,45200
+467106,208,OH,2000,1209.41,MALE,JD,machine-op-inspct,wife,36,467106,Multi-vehicle Collision,Side Collision,Total Loss,NY,15,3,YES,0,62810,11420,11420,Nissan,1999,39970
+143038,80,OH,500,795.31,MALE,JD,farming-fishing,husband,27,143038,Multi-vehicle Collision,Rear Collision,Major Damage,OH,16,3,YES,1,40810,3710,7420,Ford,2000,29680
+670142,310,IN,500,1516.34,FEMALE,JD,adm-clerical,unmarried,48,670142,Multi-vehicle Collision,Rear Collision,Major Damage,SC,11,4,YES,0,59400,13200,6600,Saab,1996,39600
+117862,140,OH,2000,979.26,FEMALE,JD,transport-moving,own-child,36,117862,Multi-vehicle Collision,Front Collision,Major Damage,NY,2,4,YES,0,72800,14560,14560,Honda,1998,43680
+789208,19,OH,500,1304.35,MALE,JD,transport-moving,not-in-family,29,789208,Multi-vehicle Collision,Front Collision,Total Loss,NY,6,3,NO,0,75400,11600,11600,Dodge,2005,52200
+540152,204,IL,500,1256.2,FEMALE,JD,sales,not-in-family,40,540152,Multi-vehicle Collision,Side Collision,Minor Damage,SC,10,3,YES,1,41700,8340,8340,Saab,2013,25020
+984948,399,IL,2000,995.56,MALE,JD,tech-support,not-in-family,55,984948,Multi-vehicle Collision,Side Collision,Total Loss,NY,23,3,YES,1,88400,17680,8840,Nissan,2010,61880
+143924,75,OH,1000,1141.1,MALE,JD,armed-forces,other-relative,27,143924,Multi-vehicle Collision,Side Collision,Minor Damage,SC,15,2,?,0,71640,5970,11940,Toyota,2008,53730
+291006,234,IN,500,951.56,FEMALE,JD,transport-moving,wife,41,291006,Multi-vehicle Collision,Side Collision,Major Damage,SC,3,3,NO,2,98280,15120,7560,Chevrolet,2007,75600
+113464,180,IN,2000,1005.47,FEMALE,JD,protective-serv,own-child,33,113464,Multi-vehicle Collision,Rear Collision,Minor Damage,VA,12,4,?,2,57700,11540,5770,Jeep,2002,40390
+226330,177,IL,2000,1057.77,FEMALE,JD,tech-support,unmarried,34,226330,Multi-vehicle Collision,Front Collision,Total Loss,NC,22,3,?,1,18000,2250,2250,Audi,2009,13500
+227244,252,IN,2000,1066.7,FEMALE,JD,handlers-cleaners,own-child,46,227244,Multi-vehicle Collision,Front Collision,Total Loss,VA,22,3,NO,0,89520,14920,14920,Audi,2014,59680
+666333,166,IL,2000,1337.28,MALE,JD,craft-repair,husband,37,666333,Multi-vehicle Collision,Side Collision,Major Damage,WV,10,3,NO,2,67140,7460,7460,Ford,2006,52220
+461962,218,IL,500,914.22,MALE,JD,prof-specialty,wife,41,461962,Multi-vehicle Collision,Side Collision,Total Loss,NY,14,3,NO,2,84590,15380,7690,Saab,2013,61520
+485295,241,OH,1000,1260.56,FEMALE,JD,adm-clerical,own-child,39,485295,Multi-vehicle Collision,Side Collision,Minor Damage,SC,20,3,NO,0,37520,4690,4690,Jeep,2010,28140
+488724,239,IN,500,1463.95,FEMALE,JD,sales,own-child,40,488724,Multi-vehicle Collision,Rear Collision,Total Loss,NC,20,3,?,0,69740,6340,6340,Dodge,2003,57060
+633375,254,IL,500,1083.64,MALE,JD,other-service,husband,45,633375,Multi-vehicle Collision,Rear Collision,Total Loss,NC,19,3,YES,0,79680,13280,13280,BMW,2004,53120
+182450,434,OH,2000,1422.95,MALE,JD,transport-moving,husband,57,182450,Multi-vehicle Collision,Rear Collision,Major Damage,SC,15,3,NO,1,66240,11040,11040,Nissan,2003,44160
+305758,178,IL,500,1035.99,FEMALE,JD,exec-managerial,own-child,39,305758,Multi-vehicle Collision,Front Collision,Minor Damage,NY,3,3,NO,2,64680,11760,11760,Jeep,2010,41160
+818167,35,IN,2000,653.66,FEMALE,JD,handlers-cleaners,unmarried,29,818167,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,22,3,NO,0,78300,15660,7830,BMW,2009,54810
+636843,362,OH,1000,1097.99,FEMALE,JD,other-service,unmarried,55,636843,Multi-vehicle Collision,Rear Collision,Total Loss,NY,0,3,NO,0,39690,0,0,Suburu,1998,39690
+542245,130,OH,1000,1003.15,FEMALE,JD,farming-fishing,other-relative,28,542245,Multi-vehicle Collision,Front Collision,Minor Damage,SC,21,2,YES,2,85020,13080,13080,Ford,2010,58860
+996253,116,IN,500,951.46,MALE,JD,handlers-cleaners,not-in-family,30,996253,Multi-vehicle Collision,Front Collision,Major Damage,WV,8,3,NO,0,59670,6630,6630,Volkswagen,2004,46410
+396002,292,IN,1000,1588.22,MALE,JD,machine-op-inspct,other-relative,42,396002,Multi-vehicle Collision,Rear Collision,Total Loss,WV,15,3,YES,1,84600,16920,8460,Chevrolet,2007,59220
+766193,61,OH,2000,1188.28,FEMALE,JD,farming-fishing,wife,26,766193,Multi-vehicle Collision,Rear Collision,Major Damage,VA,16,2,YES,1,53820,11960,5980,Ford,2015,35880
+951543,142,IN,2000,1616.58,MALE,JD,adm-clerical,husband,30,951543,Multi-vehicle Collision,Rear Collision,Major Damage,SC,13,3,YES,0,63600,6360,12720,Dodge,2010,44520
+718428,280,IN,1000,1397.67,MALE,JD,machine-op-inspct,wife,45,718428,Multi-vehicle Collision,Front Collision,Minor Damage,NY,0,3,YES,1,84720,14120,14120,Ford,1999,56480
+246435,196,IL,2000,1800.76,MALE,JD,protective-serv,other-relative,41,246435,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,0,3,NO,1,47800,4780,4780,Jeep,2009,38240
+373731,222,IL,1000,1226.78,MALE,JD,armed-forces,unmarried,40,373731,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,17,2,YES,2,81500,16300,8150,BMW,2013,57050
+729634,223,IN,500,1201.41,FEMALE,JD,priv-house-serv,husband,40,729634,Multi-vehicle Collision,Side Collision,Major Damage,NC,7,3,YES,1,70510,12820,12820,Suburu,1999,44870
+781181,461,OH,2000,1402.75,MALE,JD,exec-managerial,husband,61,781181,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,10,3,?,2,72100,7210,14420,Jeep,2006,50470
+389238,279,IL,500,1497.35,FEMALE,JD,prof-specialty,husband,41,389238,Multi-vehicle Collision,Front Collision,Minor Damage,NC,16,3,?,2,28800,0,3600,Ford,2013,25200
+638155,463,IL,1000,979.73,FEMALE,JD,exec-managerial,not-in-family,59,638155,Multi-vehicle Collision,Front Collision,Major Damage,SC,14,2,?,1,72400,7240,14480,Chevrolet,1999,50680
+935596,20,OH,1000,1711.72,FEMALE,JD,tech-support,wife,23,935596,Multi-vehicle Collision,Rear Collision,Major Damage,SC,21,3,NO,2,63250,5750,11500,Chevrolet,2002,46000
+290971,339,OH,500,1698.51,MALE,JD,other-service,unmarried,48,290971,Multi-vehicle Collision,Rear Collision,Total Loss,SC,18,3,NO,2,51840,8640,8640,Volkswagen,2001,34560
+967713,243,IL,500,809.11,MALE,JD,craft-repair,other-relative,44,967713,Multi-vehicle Collision,Side Collision,Minor Damage,NC,4,3,?,2,51400,5140,10280,Honda,1996,35980
+519312,215,OH,500,1848.81,MALE,JD,transport-moving,own-child,42,519312,Multi-vehicle Collision,Front Collision,Major Damage,WV,20,3,YES,2,68520,11420,5710,Suburu,2003,51390
+889883,246,IL,1000,1665.45,MALE,JD,machine-op-inspct,wife,45,889883,Multi-vehicle Collision,Side Collision,Major Damage,PA,9,3,?,2,53280,11840,5920,Toyota,2006,35520
+760700,255,IL,500,1302.34,FEMALE,JD,prof-specialty,own-child,46,760700,Multi-vehicle Collision,Front Collision,Minor Damage,WV,2,3,NO,1,57860,5260,10520,Volkswagen,2011,42080
+573572,194,IL,500,1429.96,FEMALE,JD,protective-serv,husband,34,573572,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,11,3,NO,1,57200,11440,5720,Toyota,2005,40040
+221186,225,OH,1000,1517.54,MALE,JD,priv-house-serv,own-child,43,221186,Multi-vehicle Collision,Rear Collision,Major Damage,SC,16,3,NO,2,64400,6440,6440,BMW,2011,51520
+735822,27,IN,2000,1371.78,MALE,JD,farming-fishing,other-relative,28,735822,Multi-vehicle Collision,Front Collision,Major Damage,PA,10,3,?,0,53600,5360,10720,Audi,2015,37520
+183430,460,IN,1000,1187.96,MALE,JD,other-service,own-child,62,183430,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,20,3,NO,1,47160,0,5240,Suburu,2011,41920
+594988,255,IN,500,984.02,FEMALE,JD,transport-moving,unmarried,43,594988,Multi-vehicle Collision,Side Collision,Major Damage,SC,14,2,?,2,74700,7470,14940,Nissan,2007,52290
+786432,435,IN,2000,1145.85,MALE,JD,sales,not-in-family,58,786432,Multi-vehicle Collision,Rear Collision,Total Loss,NY,19,3,?,1,41490,9220,4610,Mercedes,2004,27660
+728839,233,OH,2000,1524.18,MALE,JD,craft-repair,unmarried,39,728839,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,20,3,?,1,48870,5430,5430,Saab,1999,38010
+583169,290,IL,500,1085.03,FEMALE,JD,sales,wife,45,583169,Multi-vehicle Collision,Side Collision,Total Loss,VA,23,3,YES,2,64800,12960,6480,Audi,2014,45360
+399524,15,IL,1000,1829.63,MALE,JD,tech-support,not-in-family,34,399524,Multi-vehicle Collision,Side Collision,Total Loss,SC,21,3,YES,1,67650,12300,6150,Audi,2009,49200
+687639,264,IN,2000,1181.46,FEMALE,JD,transport-moving,other-relative,47,687639,Multi-vehicle Collision,Front Collision,Total Loss,OH,16,4,YES,1,62370,5670,5670,Dodge,2001,51030
+797636,257,IN,1000,974.84,FEMALE,JD,transport-moving,other-relative,43,797636,Single Vehicle Collision,Rear Collision,Total Loss,VA,0,1,NO,0,85320,21330,7110,Nissan,2006,56880
+730819,239,IN,2000,625.08,FEMALE,JD,protective-serv,wife,39,730819,Single Vehicle Collision,Front Collision,Major Damage,SC,10,1,NO,2,87890,15980,7990,BMW,2014,63920
+890026,48,IL,500,1090.03,FEMALE,JD,exec-managerial,unmarried,35,890026,Single Vehicle Collision,Rear Collision,Major Damage,WV,1,1,YES,0,48400,9680,4840,Saab,2005,33880
+445694,194,IL,1000,1193.45,MALE,JD,other-service,not-in-family,34,445694,Single Vehicle Collision,Rear Collision,Total Loss,WV,11,1,?,2,58800,11760,5880,Nissan,1997,41160
+735844,56,IN,500,1533.07,MALE,JD,farming-fishing,own-child,36,735844,Single Vehicle Collision,Rear Collision,Major Damage,NC,13,1,YES,1,58500,0,6500,Ford,2001,52000
+914088,224,OH,2000,1291.7,FEMALE,JD,sales,not-in-family,40,914088,Single Vehicle Collision,Side Collision,Minor Damage,SC,21,1,NO,1,69840,7760,15520,Dodge,2009,46560
+223404,101,IL,500,895.14,MALE,JD,sales,other-relative,32,223404,Single Vehicle Collision,Front Collision,Minor Damage,SC,4,1,?,0,43600,8720,4360,Suburu,2010,30520
+354455,246,IN,1000,1416.08,FEMALE,JD,craft-repair,other-relative,39,354455,Single Vehicle Collision,Rear Collision,Minor Damage,WV,16,1,YES,0,45180,5020,5020,Honda,2004,35140
+165565,186,OH,2000,1628,FEMALE,JD,priv-house-serv,unmarried,37,165565,Single Vehicle Collision,Rear Collision,Total Loss,NY,22,1,YES,1,55600,11120,5560,Jeep,2009,38920
+110084,16,IL,1000,1358.03,MALE,JD,sales,own-child,35,110084,Single Vehicle Collision,Rear Collision,Total Loss,SC,0,1,NO,2,55000,10000,10000,Volkswagen,2008,35000
+691115,39,IN,500,1173.21,MALE,JD,farming-fishing,not-in-family,22,691115,Single Vehicle Collision,Rear Collision,Major Damage,SC,14,1,YES,0,86130,15660,7830,Suburu,2009,62640
+168260,284,OH,1000,1168.8,FEMALE,JD,tech-support,other-relative,48,168260,Single Vehicle Collision,Side Collision,Total Loss,NY,11,1,?,0,35750,6500,3250,Mercedes,2001,26000
+783494,102,OH,500,1537.07,MALE,JD,tech-support,wife,32,783494,Single Vehicle Collision,Side Collision,Total Loss,OH,11,1,NO,1,47400,9480,4740,Chevrolet,2004,33180
+805806,246,IN,1000,1267.4,MALE,JD,adm-clerical,husband,43,805806,Single Vehicle Collision,Side Collision,Minor Damage,NY,0,1,NO,2,50700,5070,5070,Accura,2006,40560
+771236,175,OH,500,915.29,FEMALE,JD,handlers-cleaners,wife,34,771236,Single Vehicle Collision,Front Collision,Major Damage,NY,14,1,?,2,36720,4080,4080,Honda,2009,28560
+601042,190,OH,500,1246.03,MALE,JD,craft-repair,unmarried,38,601042,Single Vehicle Collision,Side Collision,Total Loss,NY,14,1,YES,0,45100,9020,4510,Nissan,2013,31570
+108844,269,IL,2000,1081.08,MALE,JD,priv-house-serv,unmarried,44,108844,Single Vehicle Collision,Front Collision,Minor Damage,SC,14,1,YES,0,56400,11280,11280,Toyota,2014,33840
+604614,142,IN,2000,1362.64,FEMALE,JD,exec-managerial,wife,33,604614,Single Vehicle Collision,Side Collision,Total Loss,NC,11,1,YES,1,81360,6780,13560,Suburu,2009,61020
+332892,88,IN,1000,1194,FEMALE,JD,handlers-cleaners,husband,25,332892,Single Vehicle Collision,Rear Collision,Major Damage,SC,6,1,YES,1,66780,7420,7420,Ford,2013,51940
+786103,188,OH,500,1457.21,FEMALE,JD,adm-clerical,own-child,37,786103,Single Vehicle Collision,Rear Collision,Total Loss,SC,6,1,?,2,45000,5000,5000,Suburu,2003,35000
+725330,169,IN,500,1469.75,FEMALE,JD,sales,not-in-family,34,725330,Single Vehicle Collision,Rear Collision,Minor Damage,VA,0,1,?,0,38700,7740,3870,Volkswagen,2012,27090
+812989,163,IN,500,1178.95,FEMALE,JD,priv-house-serv,own-child,37,812989,Single Vehicle Collision,Rear Collision,Total Loss,NY,20,1,YES,2,49400,4940,9880,Jeep,2005,34580
+345539,280,IN,1000,1559.34,MALE,JD,transport-moving,own-child,43,345539,Single Vehicle Collision,Front Collision,Total Loss,NY,1,1,NO,0,77000,14000,7000,Accura,2004,56000
+184938,2,IL,1000,1340.56,FEMALE,JD,machine-op-inspct,not-in-family,28,184938,Single Vehicle Collision,Side Collision,Minor Damage,NY,19,1,YES,0,58140,6460,6460,Saab,2008,45220
+432068,61,IL,500,1111.72,MALE,JD,exec-managerial,other-relative,23,432068,Single Vehicle Collision,Side Collision,Major Damage,PA,6,1,?,1,41850,4650,4650,Suburu,1997,32550
+442795,125,OH,500,1054.83,MALE,JD,tech-support,husband,35,442795,Single Vehicle Collision,Front Collision,Total Loss,NY,17,1,YES,2,88660,8060,16120,Mercedes,2007,64480
+217938,193,OH,500,847.03,FEMALE,JD,craft-repair,not-in-family,41,217938,Single Vehicle Collision,Side Collision,Major Damage,SC,1,1,?,1,112320,17280,17280,Suburu,2011,77760
+216738,10,IN,1000,1185.78,FEMALE,JD,craft-repair,wife,19,216738,Single Vehicle Collision,Side Collision,Minor Damage,NC,5,1,?,0,48950,4450,8900,Accura,2011,35600
+836349,235,IL,2000,1453.61,MALE,JD,craft-repair,other-relative,39,836349,Single Vehicle Collision,Side Collision,Major Damage,NC,10,1,?,0,60320,9280,9280,Chevrolet,2012,41760
+396590,460,OH,2000,1567.37,FEMALE,JD,craft-repair,husband,57,396590,Single Vehicle Collision,Front Collision,Major Damage,NY,10,1,?,2,58300,5830,11660,Nissan,2014,40810
+982871,199,IN,500,1262.08,MALE,JD,tech-support,wife,37,982871,Single Vehicle Collision,Front Collision,Major Damage,NC,4,1,?,0,60170,10940,10940,Nissan,2011,38290
+357713,126,OH,1000,1141.71,FEMALE,JD,priv-house-serv,own-child,33,357713,Single Vehicle Collision,Front Collision,Major Damage,WV,21,1,YES,1,54160,6770,6770,Suburu,2009,40620
+717392,211,IL,500,1040.75,FEMALE,JD,prof-specialty,not-in-family,35,717392,Single Vehicle Collision,Rear Collision,Total Loss,WV,1,1,YES,1,42000,7000,7000,BMW,2011,28000
+630683,386,OH,500,1078.65,MALE,JD,craft-repair,not-in-family,53,630683,Single Vehicle Collision,Front Collision,Minor Damage,WV,16,1,?,2,66660,12120,6060,Honda,2006,48480
+824116,135,IL,2000,1687.53,FEMALE,JD,protective-serv,other-relative,34,824116,Single Vehicle Collision,Side Collision,Total Loss,NC,7,1,?,1,78200,15640,7820,Audi,2009,54740
+762951,228,IN,500,1388.62,FEMALE,JD,sales,husband,39,762951,Single Vehicle Collision,Side Collision,Minor Damage,NC,10,1,YES,1,59490,6610,6610,Mercedes,1995,46270
+391652,86,OH,500,1382.88,MALE,JD,tech-support,other-relative,26,391652,Single Vehicle Collision,Rear Collision,Minor Damage,SC,11,1,?,1,81840,14880,7440,Chevrolet,2011,59520
+209177,152,IN,500,1448.54,FEMALE,JD,craft-repair,wife,30,209177,Single Vehicle Collision,Side Collision,Major Damage,VA,9,1,YES,1,84590,7690,7690,Toyota,2000,69210
+191891,97,OH,1000,830.31,MALE,JD,farming-fishing,husband,28,191891,Single Vehicle Collision,Rear Collision,Total Loss,SC,22,1,?,1,45270,10060,10060,Jeep,2006,25150
+454758,145,IN,1000,1142.48,FEMALE,JD,priv-house-serv,other-relative,34,454758,Single Vehicle Collision,Side Collision,Total Loss,NC,18,1,YES,2,52250,9500,4750,Suburu,2012,38000
+858060,289,IL,2000,1209.07,MALE,JD,armed-forces,unmarried,46,858060,Single Vehicle Collision,Rear Collision,Minor Damage,NC,18,1,YES,0,56430,6270,6270,BMW,1995,43890
+868283,252,IN,1000,1086.21,MALE,JD,farming-fishing,unmarried,39,868283,Single Vehicle Collision,Side Collision,Minor Damage,SC,18,1,?,1,50490,5610,5610,Nissan,2001,39270
+231548,31,IL,2000,1263.48,FEMALE,JD,other-service,wife,32,231548,Single Vehicle Collision,Side Collision,Major Damage,WV,10,1,?,2,63600,5300,10600,Audi,1997,47700
+296960,138,IL,500,1362.87,FEMALE,JD,exec-managerial,own-child,33,296960,Single Vehicle Collision,Side Collision,Minor Damage,NY,6,1,NO,2,95810,14740,14740,BMW,2007,66330
+569245,293,IL,2000,1239.06,FEMALE,JD,transport-moving,husband,49,569245,Single Vehicle Collision,Front Collision,Total Loss,SC,19,1,?,1,57310,5210,10420,Volkswagen,2002,41680
+623032,121,IL,1000,1061.98,FEMALE,JD,armed-forces,unmarried,31,623032,Single Vehicle Collision,Rear Collision,Minor Damage,WV,16,1,NO,0,65250,7250,7250,BMW,2002,50750
+380067,250,OH,1000,1243.84,FEMALE,JD,tech-support,own-child,43,380067,Single Vehicle Collision,Side Collision,Minor Damage,VA,22,1,YES,1,64900,12980,12980,Volkswagen,2011,38940
+695117,152,IN,1000,1034.27,FEMALE,JD,armed-forces,husband,33,695117,Single Vehicle Collision,Front Collision,Minor Damage,NY,18,1,NO,1,63900,7100,7100,Accura,2014,49700
+589094,274,IN,1000,1353.53,FEMALE,JD,tech-support,unmarried,45,589094,Single Vehicle Collision,Side Collision,Minor Damage,NY,13,1,YES,0,58500,11700,0,Accura,1995,46800
+942106,204,OH,2000,1767.02,MALE,JD,machine-op-inspct,husband,40,942106,Single Vehicle Collision,Rear Collision,Total Loss,SC,7,1,YES,1,46200,4200,8400,Audi,1997,33600
+130930,99,IN,1000,1058.21,MALE,JD,craft-repair,unmarried,32,130930,Single Vehicle Collision,Front Collision,Total Loss,NY,17,1,YES,1,41130,4570,4570,Dodge,1999,31990
+412703,32,OH,2000,1260.32,MALE,JD,other-service,not-in-family,26,412703,Single Vehicle Collision,Side Collision,Total Loss,VA,16,1,?,1,45500,9100,4550,Toyota,2009,31850
+118236,214,OH,1000,1648,MALE,JD,transport-moving,not-in-family,40,118236,Single Vehicle Collision,Rear Collision,Total Loss,WV,17,1,NO,1,44220,8040,4020,Accura,2000,32160
+979963,260,IN,500,982.22,FEMALE,JD,exec-managerial,not-in-family,43,979963,Single Vehicle Collision,Front Collision,Total Loss,NY,18,1,?,1,75400,15080,7540,Honda,2011,52780
+357949,1,OH,500,854.58,FEMALE,JD,craft-repair,other-relative,29,357949,Single Vehicle Collision,Side Collision,Minor Damage,SC,15,1,?,2,86790,7890,23670,Honda,2003,55230
+667021,298,OH,1000,1138.42,MALE,JD,prof-specialty,own-child,46,667021,Single Vehicle Collision,Side Collision,Minor Damage,SC,18,1,NO,2,33550,3050,6100,Volkswagen,2005,24400
+686522,136,IN,500,1169.62,FEMALE,JD,sales,not-in-family,32,686522,Single Vehicle Collision,Side Collision,Major Damage,SC,6,1,YES,0,55000,10000,10000,Toyota,2008,35000
+180008,280,IL,1000,1387.35,MALE,JD,transport-moving,not-in-family,48,180008,Single Vehicle Collision,Front Collision,Minor Damage,WV,16,1,NO,2,61320,10220,10220,BMW,1998,40880
+603632,402,OH,2000,1285.09,MALE,JD,farming-fishing,not-in-family,54,603632,Single Vehicle Collision,Rear Collision,Major Damage,NY,19,1,NO,0,67770,7530,15060,Mercedes,2013,45180
+432740,131,IL,2000,1081.17,MALE,MD,sales,wife,33,432740,Parked Car,?,Minor Damage,NY,3,1,?,0,4900,490,490,Toyota,2010,3920
+626808,121,OH,1000,936.61,FEMALE,MD,armed-forces,wife,34,626808,Parked Car,?,Minor Damage,SC,5,1,NO,1,7280,1120,1120,Toyota,2010,5040
+275092,194,IL,500,1416.24,FEMALE,MD,adm-clerical,not-in-family,35,275092,Parked Car,?,Minor Damage,WV,7,1,YES,1,5940,1080,540,Nissan,2003,4320
+976971,223,OH,500,1734.09,FEMALE,MD,adm-clerical,not-in-family,43,976971,Parked Car,?,Trivial Damage,WV,6,1,YES,0,5200,650,650,Accura,2006,3900
+362843,267,OH,2000,1111.17,MALE,MD,craft-repair,unmarried,46,362843,Parked Car,?,Trivial Damage,WV,3,1,YES,2,4950,900,450,Toyota,1995,3600
+482404,34,IN,2000,1550.53,FEMALE,MD,armed-forces,own-child,24,482404,Parked Car,?,Trivial Damage,VA,20,1,YES,0,3960,660,660,Audi,1998,2640
+865839,101,IL,1000,1371.88,FEMALE,MD,prof-specialty,husband,26,865839,Parked Car,?,Trivial Damage,VA,4,1,?,2,3190,580,580,Suburu,1995,2030
+348209,338,IN,1000,1279.08,MALE,MD,other-service,own-child,49,348209,Parked Car,?,Minor Damage,NC,13,1,NO,0,4300,860,860,Ford,2004,2580
+944537,27,OH,1000,1074.47,MALE,MD,protective-serv,wife,28,944537,Parked Car,?,Trivial Damage,WV,4,1,?,2,3200,400,400,Jeep,2012,2400
+927354,45,IN,500,1459.5,MALE,MD,priv-house-serv,not-in-family,31,927354,Parked Car,?,Minor Damage,NY,6,1,?,1,6000,1000,1000,Suburu,2000,4000
+266247,89,IN,2000,1482.53,FEMALE,MD,tech-support,not-in-family,32,266247,Parked Car,?,Trivial Damage,WV,5,1,YES,1,100,10,20,Audi,2002,70
+354481,150,IN,1000,1342.02,MALE,MD,prof-specialty,own-child,30,354481,Parked Car,?,Trivial Damage,VA,8,1,YES,0,4500,450,450,Saab,1999,3600
+594739,244,IL,500,1342.8,FEMALE,MD,sales,husband,40,594739,Vehicle Theft,?,Trivial Damage,NY,2,1,YES,1,5940,660,660,Toyota,2014,4620
+342868,228,IN,2000,1197.22,MALE,MD,machine-op-inspct,other-relative,42,342868,Vehicle Theft,?,Minor Damage,VA,8,1,?,0,5070,780,780,Mercedes,2007,3510
+602410,196,IN,2000,1463.07,MALE,MD,armed-forces,own-child,36,602410,Vehicle Theft,?,Trivial Damage,WV,3,1,?,1,5300,530,530,Jeep,2001,4240
+464234,180,IL,1000,1252.48,MALE,MD,machine-op-inspct,wife,35,464234,Vehicle Theft,?,Minor Damage,OH,17,1,?,1,5100,1020,510,Chevrolet,2000,3570
+844117,285,OH,2000,1144.3,MALE,MD,priv-house-serv,not-in-family,44,844117,Vehicle Theft,?,Minor Damage,WV,3,1,YES,1,5500,500,500,Honda,2010,4500
+544225,104,OH,500,1052.85,FEMALE,MD,protective-serv,other-relative,30,544225,Vehicle Theft,?,Minor Damage,WV,8,1,NO,0,4800,960,480,BMW,2006,3360
+490596,55,IL,500,1198.44,MALE,MD,priv-house-serv,wife,35,490596,Vehicle Theft,?,Minor Damage,WV,9,1,NO,0,3080,560,560,Nissan,1998,1960
+651861,235,IL,500,1046.58,MALE,MD,tech-support,wife,39,651861,Vehicle Theft,?,Trivial Damage,NY,1,1,?,2,4950,450,900,Chevrolet,2010,3600
+886473,282,OH,2000,1422.56,FEMALE,MD,prof-specialty,husband,48,886473,Vehicle Theft,?,Minor Damage,WV,7,1,?,1,3520,640,320,Accura,2013,2560
+979544,103,IL,500,1354.83,MALE,MD,tech-support,husband,26,979544,Multi-vehicle Collision,Front Collision,Minor Damage,NY,14,2,NO,2,40600,4060,4060,Volkswagen,2010,32480
+261119,107,IL,2000,932.14,MALE,MD,sales,own-child,26,261119,Multi-vehicle Collision,Rear Collision,Total Loss,SC,2,3,NO,2,78650,14300,7150,Audi,1996,57200
+873384,85,IL,2000,1234.69,FEMALE,MD,tech-support,husband,31,873384,Multi-vehicle Collision,Front Collision,Major Damage,WV,1,2,NO,2,74400,14880,7440,BMW,2003,52080
+307469,16,IL,1000,968.46,MALE,MD,tech-support,not-in-family,32,307469,Multi-vehicle Collision,Side Collision,Total Loss,WV,0,3,?,0,59400,6600,13200,Dodge,1995,39600
+743163,11,OH,2000,1217.69,FEMALE,MD,prof-specialty,wife,40,743163,Multi-vehicle Collision,Side Collision,Major Damage,SC,6,3,?,1,53460,9720,9720,Dodge,2004,34020
+674570,124,OH,1000,1235.14,MALE,MD,exec-managerial,husband,28,674570,Multi-vehicle Collision,Side Collision,Total Loss,OH,20,3,?,0,60200,6020,6020,Volkswagen,2012,48160
+871432,254,IL,2000,1472.43,MALE,MD,tech-support,husband,46,871432,Multi-vehicle Collision,Front Collision,Major Damage,WV,3,3,?,1,63580,5780,11560,Volkswagen,2004,46240
+175960,230,IN,1000,1023.11,FEMALE,MD,adm-clerical,own-child,42,175960,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,13,3,NO,1,58850,10700,10700,Accura,1999,37450
+235097,293,IL,1000,1119.23,FEMALE,MD,exec-managerial,unmarried,45,235097,Multi-vehicle Collision,Front Collision,Total Loss,WV,13,3,NO,1,51210,11380,5690,Jeep,2015,34140
+839884,377,IL,500,1693.63,FEMALE,MD,craft-repair,unmarried,53,839884,Multi-vehicle Collision,Front Collision,Total Loss,WV,10,3,YES,1,59040,6560,6560,Saab,2015,45920
+795004,298,OH,500,862.92,MALE,MD,machine-op-inspct,wife,49,795004,Multi-vehicle Collision,Side Collision,Major Damage,NY,16,3,NO,0,69480,11580,11580,Saab,2007,46320
+414913,257,IN,500,1379.93,MALE,MD,armed-forces,husband,40,414913,Multi-vehicle Collision,Side Collision,Major Damage,NY,6,3,?,0,51810,9420,4710,Audi,2002,37680
+116645,313,OH,2000,1255.62,MALE,MD,armed-forces,unmarried,50,116645,Multi-vehicle Collision,Side Collision,Major Damage,OH,18,3,YES,2,69000,13800,6900,Ford,1995,48300
+332867,254,IN,500,1362.87,FEMALE,MD,exec-managerial,other-relative,39,332867,Multi-vehicle Collision,Front Collision,Minor Damage,NY,6,3,YES,2,82320,13720,6860,Dodge,1995,61740
+398683,373,IN,500,1607.36,MALE,MD,sales,own-child,55,398683,Multi-vehicle Collision,Rear Collision,Major Damage,SC,21,4,?,0,60600,6060,12120,Dodge,2007,42420
+440616,335,IL,2000,1017.97,FEMALE,MD,machine-op-inspct,wife,48,440616,Multi-vehicle Collision,Front Collision,Total Loss,WV,21,3,NO,0,35860,3260,6520,BMW,2005,26080
+425973,8,IN,500,1229.16,FEMALE,MD,transport-moving,wife,31,425973,Multi-vehicle Collision,Front Collision,Major Damage,PA,2,3,?,0,48100,11100,7400,Volkswagen,2014,29600
+682178,280,OH,2000,1140.31,MALE,MD,adm-clerical,husband,41,682178,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,10,3,?,0,53020,9640,9640,Toyota,1999,33740
+238412,195,IL,2000,1294.93,MALE,MD,tech-support,unmarried,38,238412,Multi-vehicle Collision,Front Collision,Minor Damage,WV,12,3,YES,1,64620,7180,0,Dodge,2003,57440
+190588,85,OH,1000,796.35,FEMALE,MD,craft-repair,own-child,30,190588,Multi-vehicle Collision,Rear Collision,Total Loss,SC,9,3,YES,2,58960,5360,10720,Ford,2004,42880
+476923,172,IL,2000,1219.04,MALE,MD,handlers-cleaners,own-child,35,476923,Multi-vehicle Collision,Rear Collision,Major Damage,OH,19,3,?,2,79750,14500,14500,Nissan,1999,50750
+967756,189,OH,2000,1388.58,FEMALE,MD,priv-house-serv,own-child,36,967756,Multi-vehicle Collision,Side Collision,Major Damage,WV,17,3,?,1,79560,13260,13260,Ford,2009,53040
+691189,430,OH,2000,1326.62,MALE,MD,other-service,own-child,59,691189,Multi-vehicle Collision,Front Collision,Minor Damage,NY,19,3,?,0,81800,16360,8180,Nissan,1998,57260
+913464,135,IN,2000,1341.24,FEMALE,MD,farming-fishing,wife,30,913464,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,18,3,NO,0,32670,5940,2970,Honda,2003,23760
+756981,406,OH,2000,1117.04,MALE,MD,exec-managerial,own-child,58,756981,Multi-vehicle Collision,Front Collision,Total Loss,WV,15,3,?,1,65520,10920,5460,Volkswagen,2009,49140
+315041,46,OH,2000,998.19,FEMALE,MD,priv-house-serv,husband,41,315041,Multi-vehicle Collision,Rear Collision,Total Loss,SC,23,3,NO,1,78600,13100,19650,Dodge,2004,45850
+927205,137,IL,500,1039.55,MALE,MD,exec-managerial,unmarried,30,927205,Multi-vehicle Collision,Front Collision,Minor Damage,WV,4,3,?,2,74030,6730,13460,Chevrolet,2005,53840
+340614,229,IL,2000,1212.12,FEMALE,MD,craft-repair,not-in-family,37,340614,Multi-vehicle Collision,Side Collision,Major Damage,WV,14,3,YES,1,68760,11460,5730,Ford,1995,51570
+485664,431,IN,2000,1155.55,FEMALE,MD,craft-repair,unmarried,54,485664,Multi-vehicle Collision,Rear Collision,Major Damage,NY,4,3,?,2,62300,12460,6230,Jeep,2007,43610
+178081,385,IN,1000,976.37,FEMALE,MD,craft-repair,husband,51,178081,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,14,3,?,1,67600,13520,6760,Suburu,2007,47320
+270208,267,OH,2000,1546.01,FEMALE,MD,adm-clerical,wife,46,270208,Multi-vehicle Collision,Front Collision,Total Loss,VA,4,4,NO,2,77100,15420,7710,Volkswagen,1996,53970
+676255,405,IN,1000,1132.47,MALE,MD,priv-house-serv,other-relative,57,676255,Multi-vehicle Collision,Front Collision,Total Loss,NY,21,3,?,2,61440,10240,10240,Saab,2008,40960
+648397,258,IN,1000,1110.37,MALE,MD,machine-op-inspct,other-relative,46,648397,Multi-vehicle Collision,Side Collision,Total Loss,NY,14,3,NO,0,47700,4770,9540,Accura,1997,33390
+598308,279,IN,2000,1333.97,FEMALE,MD,other-service,unmarried,45,598308,Multi-vehicle Collision,Rear Collision,Major Damage,SC,21,3,?,1,61050,11100,11100,Dodge,2011,38850
+582973,10,IN,2000,765.64,MALE,MD,sales,not-in-family,26,582973,Multi-vehicle Collision,Front Collision,Major Damage,SC,3,3,?,0,31350,2850,5700,Honda,2001,22800
+698589,479,IL,1000,1188.45,FEMALE,MD,exec-managerial,other-relative,60,698589,Multi-vehicle Collision,Rear Collision,Total Loss,SC,9,2,?,0,53900,5390,10780,Saab,2006,37730
+215278,94,IN,500,722.66,MALE,MD,exec-managerial,husband,26,215278,Multi-vehicle Collision,Front Collision,Major Damage,OH,6,3,YES,1,36700,3670,7340,Nissan,2010,25690
+108270,32,OH,500,1446.98,MALE,MD,adm-clerical,own-child,29,108270,Multi-vehicle Collision,Front Collision,Minor Damage,NY,11,3,YES,2,57970,10540,5270,Saab,2006,42160
+411477,303,OH,500,793.15,MALE,MD,tech-support,own-child,50,411477,Multi-vehicle Collision,Front Collision,Total Loss,WV,17,3,NO,0,81960,13660,13660,Dodge,2008,54640
+730973,209,IN,2000,1223.39,FEMALE,MD,craft-repair,wife,36,730973,Multi-vehicle Collision,Rear Collision,Total Loss,PA,17,3,?,1,65440,8180,8180,Jeep,2014,49080
+272330,297,IN,500,1616.65,MALE,MD,adm-clerical,unmarried,47,272330,Multi-vehicle Collision,Side Collision,Total Loss,WV,0,3,?,0,44400,5550,5550,Jeep,1999,33300
+678849,295,OH,1000,1332.07,FEMALE,MD,exec-managerial,unmarried,48,678849,Multi-vehicle Collision,Side Collision,Total Loss,NY,20,2,NO,2,86060,13240,13240,Volkswagen,2002,59580
+769475,372,OH,2000,1368.57,FEMALE,MD,tech-support,other-relative,50,769475,Multi-vehicle Collision,Side Collision,Major Damage,NY,18,3,NO,2,51800,5180,10360,Accura,2003,36260
+599174,93,IL,2000,1017.18,FEMALE,MD,prof-specialty,husband,31,599174,Multi-vehicle Collision,Rear Collision,Major Damage,NC,21,3,YES,1,48070,8740,8740,Saab,2014,30590
+133889,65,OH,2000,1441.6,FEMALE,MD,sales,own-child,29,133889,Multi-vehicle Collision,Rear Collision,Minor Damage,NC,21,3,YES,0,62900,6290,12580,Jeep,1998,44030
+620855,212,IN,2000,1123.89,MALE,MD,priv-house-serv,unmarried,35,620855,Multi-vehicle Collision,Front Collision,Total Loss,NY,0,3,?,1,50380,4580,4580,Suburu,1996,41220
+918777,73,IL,2000,1191.19,MALE,MD,farming-fishing,not-in-family,26,918777,Multi-vehicle Collision,Rear Collision,Total Loss,VA,9,3,?,0,40160,5020,0,Chevrolet,2003,35140
+731450,219,IN,1000,1483.25,FEMALE,MD,exec-managerial,not-in-family,43,731450,Multi-vehicle Collision,Front Collision,Major Damage,NC,3,3,NO,1,70680,5890,11780,Ford,2009,53010
+230223,37,IL,500,1969.63,FEMALE,MD,sales,own-child,31,230223,Multi-vehicle Collision,Side Collision,Total Loss,WV,21,3,NO,1,76450,6950,13900,Dodge,1995,55600
+994538,332,IL,2000,1083.01,MALE,MD,craft-repair,other-relative,47,994538,Multi-vehicle Collision,Front Collision,Major Damage,WV,22,4,YES,2,71760,11040,11040,Jeep,2010,49680
+247505,253,IL,500,1358.2,FEMALE,MD,transport-moving,husband,46,247505,Multi-vehicle Collision,Front Collision,Major Damage,NY,11,3,YES,0,64570,5870,11740,Jeep,2001,46960
+981123,168,IN,1000,1059.52,MALE,MD,protective-serv,own-child,32,981123,Multi-vehicle Collision,Side Collision,Major Damage,VA,13,2,?,1,57720,14430,9620,Saab,2007,33670
+430029,265,IL,1000,1454.43,FEMALE,MD,protective-serv,husband,40,430029,Multi-vehicle Collision,Rear Collision,Total Loss,NY,17,3,NO,2,55120,6890,0,Accura,2002,48230
+469966,128,IN,500,1366.6,FEMALE,MD,machine-op-inspct,other-relative,35,469966,Multi-vehicle Collision,Front Collision,Minor Damage,NY,10,3,?,2,88220,16040,16040,Chevrolet,2008,56140
+485372,151,OH,2000,870.63,FEMALE,MD,adm-clerical,own-child,36,485372,Multi-vehicle Collision,Side Collision,Minor Damage,VA,12,3,NO,1,62920,11440,5720,Ford,2000,45760
+756054,124,IL,1000,1198.15,FEMALE,MD,other-service,not-in-family,32,756054,Multi-vehicle Collision,Front Collision,Total Loss,VA,19,3,NO,0,73560,12260,12260,BMW,1995,49040
+646069,312,OH,1000,1212.07,FEMALE,MD,exec-managerial,wife,47,646069,Multi-vehicle Collision,Side Collision,Total Loss,NY,17,3,NO,2,56320,7040,7040,Mercedes,2000,42240
+532330,111,OH,500,1459.97,MALE,MD,sales,other-relative,27,532330,Multi-vehicle Collision,Side Collision,Major Damage,SC,2,3,NO,1,80850,7350,14700,Ford,2011,58800
+892874,473,IN,2000,1131.4,FEMALE,MD,transport-moving,other-relative,58,892874,Multi-vehicle Collision,Side Collision,Major Damage,WV,12,4,YES,0,63120,10520,10520,Accura,1999,42080
+700074,76,OH,1000,1622.67,FEMALE,MD,priv-house-serv,husband,24,700074,Multi-vehicle Collision,Side Collision,Total Loss,WV,6,3,NO,1,74700,14940,7470,Suburu,1997,52290
+669800,456,OH,1000,1395.77,FEMALE,MD,protective-serv,own-child,62,669800,Multi-vehicle Collision,Side Collision,Major Damage,PA,13,3,?,1,66480,5540,11080,Saab,2012,49860
+445195,54,IN,500,1261.28,FEMALE,MD,protective-serv,unmarried,35,445195,Multi-vehicle Collision,Side Collision,Minor Damage,VA,21,3,YES,2,79090,14380,7190,Nissan,2012,57520
+577858,249,OH,2000,1148.58,FEMALE,MD,adm-clerical,not-in-family,43,577858,Multi-vehicle Collision,Rear Collision,Total Loss,SC,4,3,YES,2,57100,5710,5710,Honda,2014,45680
+505316,230,IN,2000,1221.14,MALE,MD,prof-specialty,wife,43,505316,Single Vehicle Collision,Side Collision,Total Loss,VA,13,1,?,0,75460,13720,13720,Audi,2002,48020
+260845,222,OH,2000,1055.53,FEMALE,MD,armed-forces,not-in-family,41,260845,Single Vehicle Collision,Front Collision,Total Loss,WV,7,1,NO,0,61290,6810,6810,Honda,1995,47670
+884180,338,IL,500,1143.46,MALE,MD,priv-house-serv,other-relative,47,884180,Single Vehicle Collision,Front Collision,Total Loss,NC,4,1,YES,2,58560,9760,9760,Mercedes,2002,39040
+608443,259,IL,2000,1175.07,MALE,MD,craft-repair,not-in-family,45,608443,Single Vehicle Collision,Side Collision,Minor Damage,WV,23,1,?,1,87780,7980,7980,Honda,2011,71820
+253791,206,IL,500,1625.45,FEMALE,MD,other-service,other-relative,36,253791,Single Vehicle Collision,Front Collision,Major Damage,NY,11,1,NO,2,76560,12760,12760,Ford,2008,51040
+352120,166,IN,500,1518.54,FEMALE,MD,craft-repair,not-in-family,37,352120,Single Vehicle Collision,Rear Collision,Total Loss,PA,10,1,YES,1,58300,10600,10600,Ford,2001,37100
+942504,84,IL,2000,1035.79,FEMALE,MD,protective-serv,wife,30,942504,Single Vehicle Collision,Side Collision,Minor Damage,SC,9,1,NO,1,57640,5240,10480,Volkswagen,2010,41920
+211578,148,IL,1000,1236.32,FEMALE,MD,adm-clerical,own-child,36,211578,Single Vehicle Collision,Side Collision,Total Loss,PA,0,1,NO,2,61050,5550,11100,Dodge,2009,44400
+663190,286,IL,500,1564.43,FEMALE,MD,prof-specialty,unmarried,43,663190,Single Vehicle Collision,Rear Collision,Minor Damage,NY,18,1,?,2,34290,3810,3810,Jeep,2013,26670
+828890,359,OH,2000,1367.68,FEMALE,MD,handlers-cleaners,unmarried,47,828890,Single Vehicle Collision,Front Collision,Total Loss,SC,13,1,NO,0,55500,5550,11100,Mercedes,2012,38850
+921202,160,OH,500,1374.22,FEMALE,MD,craft-repair,other-relative,37,921202,Single Vehicle Collision,Side Collision,Total Loss,NY,19,1,YES,1,72930,6630,13260,Accura,2015,53040
+473338,422,IN,1000,1555.52,FEMALE,MD,machine-op-inspct,own-child,60,473338,Single Vehicle Collision,Front Collision,Major Damage,NC,11,1,YES,1,85250,15500,7750,Mercedes,1999,62000
+525224,147,IN,1000,1306.78,MALE,MD,prof-specialty,other-relative,37,525224,Single Vehicle Collision,Front Collision,Total Loss,SC,22,1,?,1,81120,13520,20280,Toyota,1995,47320
+883980,256,OH,500,1203.17,FEMALE,MD,prof-specialty,unmarried,43,883980,Single Vehicle Collision,Rear Collision,Total Loss,WV,11,1,NO,0,63250,11500,5750,Nissan,1997,46000
+810189,102,OH,500,1075.41,MALE,MD,machine-op-inspct,wife,28,810189,Single Vehicle Collision,Side Collision,Total Loss,PA,6,1,NO,1,73400,7340,7340,Dodge,1996,58720
+420815,204,IL,2000,1124.47,FEMALE,MD,tech-support,wife,38,420815,Single Vehicle Collision,Side Collision,Total Loss,SC,5,1,NO,0,90530,16460,16460,Ford,2003,57610
+830729,297,IN,1000,1538.6,FEMALE,MD,other-service,wife,48,830729,Single Vehicle Collision,Side Collision,Minor Damage,SC,12,1,?,0,60600,6060,12120,Ford,2004,42420
+331595,230,IL,1000,904.7,FEMALE,MD,craft-repair,unmarried,39,331595,Single Vehicle Collision,Front Collision,Major Damage,SC,0,1,?,1,74200,14840,14840,Accura,2002,44520
+963285,70,IN,1000,1425.79,FEMALE,MD,armed-forces,other-relative,29,963285,Single Vehicle Collision,Front Collision,Minor Damage,NC,12,1,NO,0,69360,11560,11560,Dodge,2009,46240
+974522,163,IN,1000,1503.21,MALE,MD,other-service,husband,36,974522,Single Vehicle Collision,Side Collision,Total Loss,WV,1,1,YES,2,51390,5710,11420,Toyota,2013,34260
+344480,260,OH,2000,1482.57,MALE,MD,priv-house-serv,husband,46,344480,Single Vehicle Collision,Front Collision,Minor Damage,NY,7,1,NO,0,64080,10680,10680,Toyota,2005,42720
+555374,334,IL,1000,876.88,MALE,MD,sales,other-relative,46,555374,Single Vehicle Collision,Rear Collision,Minor Damage,WV,2,1,NO,2,57330,12740,6370,Jeep,1998,38220
+552618,103,IN,1000,969.88,MALE,MD,armed-forces,own-child,33,552618,Single Vehicle Collision,Rear Collision,Minor Damage,NY,21,1,NO,1,76920,12820,6410,Chevrolet,2002,57690
+648509,324,IN,2000,897.89,MALE,MD,tech-support,wife,46,648509,Single Vehicle Collision,Rear Collision,Minor Damage,PA,13,1,?,1,79600,15920,15920,Jeep,2011,47760
+844129,213,OH,500,871.46,MALE,MD,tech-support,husband,35,844129,Single Vehicle Collision,Side Collision,Total Loss,SC,13,1,YES,2,74140,13480,6740,Ford,2007,53920
+354105,22,IN,2000,1238.62,MALE,MD,exec-managerial,other-relative,29,354105,Single Vehicle Collision,Rear Collision,Major Damage,SC,14,1,?,2,70800,7080,14160,Accura,2012,49560
+241562,154,IL,1000,2047.59,FEMALE,MD,farming-fishing,other-relative,37,241562,Single Vehicle Collision,Rear Collision,Minor Damage,SC,2,1,?,0,79530,14460,7230,Accura,2000,57840
+521585,328,OH,1000,1406.91,MALE,MD,craft-repair,husband,48,521585,Single Vehicle Collision,Side Collision,Major Damage,SC,5,1,YES,1,71610,6510,13020,Saab,2004,52080
+500533,128,OH,1000,1061.33,MALE,MD,machine-op-inspct,own-child,30,500533,Single Vehicle Collision,Front Collision,Major Damage,WV,8,1,NO,0,68530,12460,6230,Audi,1997,49840
+115399,413,IN,2000,1268.79,MALE,MD,priv-house-serv,own-child,55,115399,Single Vehicle Collision,Front Collision,Total Loss,WV,15,1,?,2,98160,8180,16360,Dodge,2011,73620
+171147,410,IL,2000,714.03,MALE,MD,protective-serv,own-child,54,171147,Single Vehicle Collision,Side Collision,Minor Damage,WV,0,1,YES,0,59520,9920,9920,Honda,2001,39680
+971338,380,OH,1000,1570.86,MALE,MD,farming-fishing,other-relative,56,971338,Single Vehicle Collision,Side Collision,Total Loss,VA,10,1,?,0,58160,7270,7270,Saab,1996,43620
+395983,209,OH,500,1355.08,FEMALE,MD,other-service,other-relative,38,395983,Single Vehicle Collision,Front Collision,Minor Damage,WV,21,1,?,1,47300,4730,4730,Nissan,2014,37840
+753844,317,IN,1000,1012.78,MALE,MD,sales,other-relative,46,753844,Single Vehicle Collision,Front Collision,Major Damage,WV,18,1,NO,2,104610,19020,19020,Mercedes,1999,66570
+547802,249,IL,1000,1518.46,FEMALE,MD,armed-forces,own-child,43,547802,Single Vehicle Collision,Front Collision,Major Damage,SC,16,1,?,0,53500,5350,5350,Saab,2015,42800
+502634,282,OH,2000,1558.86,MALE,MD,other-service,wife,46,502634,Single Vehicle Collision,Front Collision,Minor Damage,NY,2,1,?,2,69400,13880,6940,BMW,2012,48580
+963761,381,OH,500,1459.99,FEMALE,MD,other-service,wife,55,963761,Single Vehicle Collision,Rear Collision,Major Damage,SC,8,1,YES,1,60600,12120,6060,Accura,2011,42420
+714346,438,OH,500,1119.29,FEMALE,MD,machine-op-inspct,husband,57,714346,Single Vehicle Collision,Side Collision,Minor Damage,SC,14,1,?,0,40700,4070,4070,Volkswagen,2000,32560
+337158,272,OH,2000,945.73,MALE,MD,protective-serv,wife,41,337158,Single Vehicle Collision,Front Collision,Minor Damage,NY,23,1,NO,0,84100,16820,8410,Ford,2009,58870
+445289,405,IL,500,1237.88,MALE,MD,exec-managerial,not-in-family,58,445289,Single Vehicle Collision,Front Collision,Major Damage,NY,11,1,?,0,63580,5780,5780,Mercedes,1997,52020
+860497,256,IL,1000,1286.44,FEMALE,MD,transport-moving,wife,42,860497,Single Vehicle Collision,Rear Collision,Minor Damage,WV,14,1,NO,2,75500,7550,15100,Nissan,1998,52850
+174701,328,IL,500,1314.6,FEMALE,MD,prof-specialty,not-in-family,46,174701,Single Vehicle Collision,Rear Collision,Total Loss,WV,0,1,?,2,70290,12780,6390,Saab,1998,51120
+614763,134,IL,500,1612.43,FEMALE,MD,other-service,own-child,32,614763,Single Vehicle Collision,Side Collision,Total Loss,VA,2,1,?,2,64240,11680,11680,BMW,2015,40880
+615116,116,IN,500,1194.83,FEMALE,MD,prof-specialty,husband,31,615116,Single Vehicle Collision,Side Collision,Major Damage,SC,23,1,NO,0,44200,4420,8840,Suburu,1997,30940
+389525,210,OH,500,1467.76,FEMALE,MD,tech-support,own-child,37,389525,Single Vehicle Collision,Front Collision,Total Loss,NY,8,1,?,1,63300,6330,6330,Toyota,2000,50640
+842643,60,OH,500,1215.36,MALE,MD,protective-serv,wife,23,842643,Single Vehicle Collision,Rear Collision,Total Loss,SC,9,1,YES,1,56520,4710,9420,Saab,2000,42390
+343421,347,OH,500,1480.79,FEMALE,MD,priv-house-serv,unmarried,51,343421,Single Vehicle Collision,Side Collision,Total Loss,NC,15,1,YES,0,103560,8630,17260,Jeep,1997,77670
+815883,398,OH,2000,1305.26,MALE,MD,farming-fishing,wife,55,815883,Single Vehicle Collision,Rear Collision,Major Damage,VA,18,1,?,1,36740,3340,6680,BMW,1998,26720
+953334,427,IN,1000,1178.61,MALE,MD,craft-repair,own-child,60,953334,Single Vehicle Collision,Side Collision,Major Damage,NY,23,1,YES,1,90860,12980,19470,Volkswagen,2004,58410
+349658,254,IN,500,1927.87,MALE,MD,prof-specialty,husband,40,349658,Single Vehicle Collision,Front Collision,Minor Damage,VA,10,1,YES,0,43280,0,5410,Honda,1996,37870
+376879,195,IL,1000,1406.52,MALE,MD,tech-support,unmarried,37,376879,Single Vehicle Collision,Side Collision,Major Damage,SC,12,1,NO,0,44200,4420,4420,Jeep,2002,35360
+414779,166,IL,2000,1588.55,MALE,MD,protective-serv,unmarried,38,414779,Single Vehicle Collision,Side Collision,Total Loss,WV,8,1,NO,0,40320,5760,5760,Suburu,2001,28800
+571462,121,IN,500,1285.42,MALE,MD,priv-house-serv,wife,34,571462,Single Vehicle Collision,Front Collision,Major Damage,VA,11,1,NO,1,67300,6730,6730,Dodge,2000,53840
+698470,222,IN,2000,1157.97,MALE,MD,machine-op-inspct,not-in-family,38,698470,Single Vehicle Collision,Front Collision,Total Loss,NY,20,1,?,2,60480,6720,6720,Accura,2001,47040
+890280,142,OH,2000,1307.68,FEMALE,MD,craft-repair,husband,29,890280,Single Vehicle Collision,Rear Collision,Major Damage,NY,10,1,YES,1,54360,4530,9060,Mercedes,1995,40770
+139484,278,IN,2000,1142.62,FEMALE,MD,farming-fishing,not-in-family,48,139484,Single Vehicle Collision,Front Collision,Total Loss,SC,12,1,?,2,76050,11700,11700,Chevrolet,1997,52650
+982678,282,OH,500,1452.27,MALE,MD,farming-fishing,not-in-family,43,982678,Single Vehicle Collision,Side Collision,Major Damage,SC,19,1,NO,1,46800,4680,9360,Audi,2007,32760
+348814,261,IL,1000,1245.61,MALE,MD,transport-moving,own-child,46,348814,Single Vehicle Collision,Front Collision,Total Loss,NY,11,1,YES,1,59670,9180,9180,Ford,2008,41310
+109392,257,OH,1000,1280.88,MALE,MD,other-service,other-relative,44,109392,Single Vehicle Collision,Rear Collision,Total Loss,WV,21,1,NO,0,46980,0,5220,Accura,2002,41760
+369941,99,OH,500,1330.39,MALE,MD,prof-specialty,wife,28,369941,Single Vehicle Collision,Front Collision,Total Loss,NY,3,1,NO,2,49900,4990,9980,Dodge,1998,34930
+553436,122,IL,500,1236.5,MALE,PhD,other-service,husband,33,553436,Parked Car,?,Trivial Damage,NY,1,1,NO,0,5060,460,920,Nissan,2003,3680
+139872,122,IN,1000,1220.71,MALE,PhD,machine-op-inspct,own-child,34,139872,Parked Car,?,Minor Damage,SC,5,1,?,2,8190,1890,1260,Chevrolet,2013,5040
+918629,207,IL,2000,1322.78,MALE,PhD,farming-fishing,own-child,42,918629,Parked Car,?,Trivial Damage,WV,9,1,NO,0,5900,590,590,BMW,2007,4720
+903203,255,OH,2000,814.96,FEMALE,PhD,priv-house-serv,not-in-family,44,903203,Parked Car,?,Trivial Damage,NC,7,1,?,2,6400,640,1280,Mercedes,2005,4480
+282195,195,OH,1000,1393.57,MALE,PhD,machine-op-inspct,not-in-family,39,282195,Parked Car,?,Minor Damage,VA,5,1,NO,0,2640,480,480,Ford,2009,1680
+148498,108,IN,2000,1112.04,FEMALE,PhD,other-service,own-child,31,148498,Parked Car,?,Minor Damage,SC,5,1,NO,1,4290,780,780,Volkswagen,1998,2730
+369226,267,OH,500,1300.68,MALE,PhD,adm-clerical,unmarried,43,369226,Parked Car,?,Minor Damage,NC,0,1,NO,1,1920,480,0,Chevrolet,2011,1440
+326180,9,IL,2000,1304.46,FEMALE,PhD,machine-op-inspct,other-relative,24,326180,Vehicle Theft,?,Trivial Damage,NC,6,1,NO,0,5940,540,1080,Audi,2001,4320
+247116,30,IL,2000,1153.35,MALE,PhD,craft-repair,not-in-family,31,247116,Vehicle Theft,?,Trivial Damage,NY,9,1,NO,2,5760,960,960,Suburu,2011,3840
+799501,201,OH,2000,1315.56,FEMALE,PhD,transport-moving,not-in-family,40,799501,Vehicle Theft,?,Minor Damage,SC,14,1,YES,0,6820,1240,1240,Jeep,2003,4340
+411289,146,OH,2000,1082.72,FEMALE,PhD,machine-op-inspct,not-in-family,31,411289,Vehicle Theft,?,Minor Damage,SC,3,1,YES,2,5220,580,580,Accura,2015,4060
+550930,63,IL,500,1500.04,MALE,PhD,craft-repair,own-child,26,550930,Vehicle Theft,?,Minor Damage,NC,5,1,NO,0,5160,860,860,Accura,2004,3440
+866931,175,IN,1000,1123.87,FEMALE,PhD,protective-serv,other-relative,34,866931,Vehicle Theft,?,Trivial Damage,NY,5,1,?,2,7290,810,810,Volkswagen,1995,5670
+992145,80,IL,2000,1075.18,FEMALE,PhD,armed-forces,husband,25,992145,Vehicle Theft,?,Minor Damage,OH,5,1,NO,2,6930,1260,630,Toyota,2001,5040
+253085,211,IL,1000,1575.86,FEMALE,PhD,other-service,own-child,40,253085,Vehicle Theft,?,Trivial Damage,WV,3,1,NO,1,3190,580,290,Audi,2004,2320
+684653,132,OH,2000,1106.84,MALE,PhD,other-service,wife,32,684653,Vehicle Theft,?,Minor Damage,SC,21,1,YES,1,5600,1120,560,Suburu,2005,3920
+477177,294,IL,1000,1226.49,FEMALE,PhD,farming-fishing,unmarried,44,477177,Vehicle Theft,?,Trivial Damage,WV,3,1,NO,0,6100,610,1220,Ford,2002,4270
+795847,300,IL,1000,1441.21,FEMALE,PhD,farming-fishing,wife,49,795847,Vehicle Theft,?,Trivial Damage,SC,3,1,NO,1,7080,1180,1180,Nissan,2001,4720
+487356,283,IL,2000,1313.33,FEMALE,PhD,transport-moving,husband,46,487356,Multi-vehicle Collision,Front Collision,Major Damage,NY,3,3,?,1,77660,7060,14120,Nissan,2004,56480
+598554,154,IN,500,795.23,MALE,PhD,machine-op-inspct,other-relative,34,598554,Multi-vehicle Collision,Rear Collision,Major Damage,NY,15,3,YES,2,69480,15440,0,Nissan,2014,54040
+283052,169,IL,1000,1555.94,MALE,PhD,craft-repair,own-child,38,283052,Multi-vehicle Collision,Front Collision,Total Loss,VA,12,3,NO,1,79080,6590,13180,Mercedes,2012,59310
+149601,187,IN,500,1232.57,FEMALE,PhD,machine-op-inspct,not-in-family,34,149601,Multi-vehicle Collision,Side Collision,Minor Damage,NY,7,3,?,0,45100,8200,4100,Nissan,2011,32800
+871305,259,IL,2000,1537.13,FEMALE,PhD,handlers-cleaners,own-child,43,871305,Multi-vehicle Collision,Side Collision,Total Loss,NY,3,3,NO,0,57060,6340,6340,Ford,2012,44380
+431283,448,IL,2000,1376.16,FEMALE,PhD,tech-support,own-child,57,431283,Multi-vehicle Collision,Front Collision,Major Damage,SC,10,3,NO,2,47760,5970,5970,Suburu,2013,35820
+663938,194,IN,2000,1231.25,FEMALE,PhD,craft-repair,not-in-family,38,663938,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,15,3,?,1,53680,4880,9760,Toyota,2011,39040
+491484,12,IL,1000,1143.95,FEMALE,PhD,tech-support,other-relative,24,491484,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,13,3,NO,2,53370,5930,5930,Nissan,2011,41510
+620075,185,OH,500,1257.36,FEMALE,PhD,armed-forces,husband,34,620075,Multi-vehicle Collision,Side Collision,Major Damage,SC,20,3,YES,1,51370,9340,4670,BMW,2000,37360
+469426,134,OH,1000,1497.41,MALE,PhD,machine-op-inspct,husband,36,469426,Multi-vehicle Collision,Side Collision,Minor Damage,WV,17,3,NO,2,77200,9650,9650,Ford,1996,57900
+413978,137,IN,1000,1333.35,MALE,PhD,prof-specialty,husband,34,413978,Multi-vehicle Collision,Front Collision,Minor Damage,NY,0,3,?,0,78650,21450,7150,Nissan,2012,50050
+516959,264,IL,500,1508.12,MALE,PhD,craft-repair,wife,43,516959,Multi-vehicle Collision,Rear Collision,Major Damage,NY,0,3,?,2,60750,13500,6750,Jeep,2015,40500
+409074,34,OH,500,1295.87,FEMALE,PhD,priv-house-serv,husband,34,409074,Multi-vehicle Collision,Side Collision,Major Damage,NC,4,3,?,1,50800,5080,5080,Audi,1997,40640
+524836,439,IN,500,1082.49,FEMALE,PhD,prof-specialty,unmarried,56,524836,Multi-vehicle Collision,Front Collision,Major Damage,SC,12,3,?,2,56430,0,6270,Honda,2014,50160
+149467,43,OH,1000,1601.47,MALE,PhD,handlers-cleaners,other-relative,38,149467,Multi-vehicle Collision,Front Collision,Total Loss,SC,1,3,YES,2,61650,6850,6850,Nissan,2006,47950
+369048,309,IL,500,1527.95,MALE,PhD,exec-managerial,other-relative,47,369048,Multi-vehicle Collision,Rear Collision,Major Damage,WV,15,4,YES,0,77800,15560,15560,Dodge,2002,46680
+237418,108,IN,1000,1337.92,FEMALE,PhD,armed-forces,not-in-family,29,237418,Multi-vehicle Collision,Side Collision,Minor Damage,WV,4,3,NO,2,61380,11160,5580,Suburu,2012,44640
+382394,259,OH,2000,1170.53,FEMALE,PhD,armed-forces,wife,42,382394,Multi-vehicle Collision,Rear Collision,Total Loss,WV,17,3,NO,1,62590,5690,11380,Nissan,2006,45520
+803294,276,IN,1000,1724.09,MALE,PhD,craft-repair,own-child,47,803294,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,23,3,YES,0,65780,5980,11960,Chevrolet,2014,47840
+153154,436,OH,1000,1338.55,MALE,PhD,protective-serv,own-child,59,153154,Multi-vehicle Collision,Side Collision,Total Loss,WV,10,3,?,2,68000,13600,6800,Toyota,2014,47600
+843227,134,OH,2000,1443.32,FEMALE,PhD,exec-managerial,unmarried,30,843227,Multi-vehicle Collision,Rear Collision,Major Damage,SC,19,3,?,0,47790,5310,5310,Suburu,1995,37170
+132902,295,OH,2000,1641.73,MALE,PhD,sales,not-in-family,42,132902,Multi-vehicle Collision,Rear Collision,Total Loss,VA,16,3,NO,0,59130,6570,6570,Ford,2006,45990
+193213,407,OH,1000,1250.08,FEMALE,PhD,tech-support,wife,55,193213,Multi-vehicle Collision,Side Collision,Total Loss,WV,0,3,?,2,68160,11360,11360,Ford,2010,45440
+957816,130,IL,2000,1193.4,MALE,PhD,exec-managerial,own-child,30,957816,Multi-vehicle Collision,Side Collision,Total Loss,SC,16,3,NO,2,48950,8900,4450,Suburu,2005,35600
+794731,415,IN,1000,973.5,MALE,PhD,machine-op-inspct,not-in-family,52,794731,Multi-vehicle Collision,Rear Collision,Total Loss,WV,15,2,YES,1,51090,7860,7860,Toyota,2003,35370
+509928,272,OH,1000,1279.13,MALE,PhD,craft-repair,other-relative,43,509928,Multi-vehicle Collision,Side Collision,Minor Damage,NC,5,3,?,1,81070,7370,14740,Audi,2006,58960
+104594,256,OH,1000,1351.1,FEMALE,PhD,tech-support,unmarried,39,104594,Multi-vehicle Collision,Rear Collision,Major Damage,SC,19,3,NO,0,64100,6410,6410,Saab,2003,51280
+143109,255,OH,500,1453.95,FEMALE,PhD,armed-forces,not-in-family,39,143109,Multi-vehicle Collision,Side Collision,Total Loss,WV,17,3,YES,0,29300,2930,5860,Audi,2010,20510
+930032,35,IL,2000,1117.42,FEMALE,PhD,protective-serv,not-in-family,35,930032,Multi-vehicle Collision,Side Collision,Minor Damage,NC,23,3,NO,2,53190,5910,11820,Volkswagen,1996,35460
+985446,144,OH,2000,1896.91,FEMALE,PhD,handlers-cleaners,not-in-family,37,985446,Multi-vehicle Collision,Rear Collision,Major Damage,SC,17,3,YES,1,54400,5440,10880,Chevrolet,2015,38080
+261315,253,OH,2000,1312.75,FEMALE,PhD,sales,other-relative,41,261315,Multi-vehicle Collision,Rear Collision,Major Damage,SC,10,3,NO,2,80740,7340,14680,Toyota,2014,58720
+788502,101,OH,500,1380.89,MALE,PhD,armed-forces,own-child,29,788502,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,0,3,?,2,67210,12220,12220,BMW,1996,42770
+250162,405,IL,500,878.19,MALE,PhD,machine-op-inspct,unmarried,55,250162,Multi-vehicle Collision,Rear Collision,Minor Damage,NC,2,4,YES,0,38640,4830,4830,Chevrolet,1997,28980
+999435,113,OH,2000,1091.73,MALE,PhD,exec-managerial,not-in-family,29,999435,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,15,3,?,0,49950,5550,5550,Nissan,2004,38850
+892148,175,IN,500,1359.36,MALE,PhD,exec-managerial,husband,39,892148,Multi-vehicle Collision,Front Collision,Major Damage,SC,9,3,YES,2,71610,13020,6510,Toyota,2012,52080
+434507,120,IL,1000,1281.27,FEMALE,PhD,tech-support,not-in-family,28,434507,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,9,3,NO,0,65500,6550,6550,BMW,2010,52400
+954191,273,OH,1000,1403.9,FEMALE,PhD,farming-fishing,own-child,41,954191,Multi-vehicle Collision,Side Collision,Total Loss,VA,16,2,?,1,44110,4010,8020,Honda,2015,32080
+990624,371,IN,1000,1569.33,MALE,PhD,machine-op-inspct,not-in-family,50,990624,Multi-vehicle Collision,Side Collision,Major Damage,WV,2,3,NO,2,84500,13000,13000,Volkswagen,2011,58500
+484321,360,IL,1000,1152.12,MALE,PhD,armed-forces,not-in-family,51,484321,Multi-vehicle Collision,Side Collision,Total Loss,WV,15,3,NO,2,90480,15080,15080,BMW,2000,60320
+586367,468,IL,500,1011.92,MALE,PhD,machine-op-inspct,wife,62,586367,Multi-vehicle Collision,Rear Collision,Major Damage,SC,7,3,YES,0,64350,7150,7150,Chevrolet,2009,50050
+483088,211,OH,2000,1295.63,FEMALE,PhD,armed-forces,not-in-family,37,483088,Multi-vehicle Collision,Front Collision,Total Loss,WV,22,3,YES,1,53460,5940,5940,Honda,2009,41580
+497347,270,OH,500,1187.53,FEMALE,PhD,priv-house-serv,not-in-family,45,497347,Multi-vehicle Collision,Side Collision,Total Loss,VA,23,3,?,0,54340,9880,0,Saab,2005,44460
+192524,161,IL,2000,1133.85,MALE,PhD,priv-house-serv,not-in-family,38,192524,Multi-vehicle Collision,Front Collision,Total Loss,WV,0,3,YES,2,60480,5040,15120,Volkswagen,2003,40320
+961496,284,IL,500,1123.84,MALE,PhD,prof-specialty,other-relative,43,961496,Multi-vehicle Collision,Side Collision,Total Loss,WV,12,3,NO,0,36960,6720,3360,Chevrolet,2007,26880
+724752,284,IL,500,958.3,FEMALE,PhD,machine-op-inspct,husband,48,724752,Multi-vehicle Collision,Side Collision,Major Damage,NY,19,3,?,0,46860,8520,8520,Volkswagen,1998,29820
+687698,134,OH,2000,1413.14,FEMALE,PhD,sales,own-child,29,687698,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,7,3,NO,2,34650,7700,3850,Dodge,2007,23100
+751612,297,IN,1000,1464.73,MALE,PhD,exec-managerial,other-relative,48,751612,Multi-vehicle Collision,Side Collision,Total Loss,NY,17,3,?,0,51480,5720,5720,Toyota,2013,40040
+641934,51,OH,500,1430.8,MALE,PhD,machine-op-inspct,unmarried,34,641934,Single Vehicle Collision,Side Collision,Major Damage,NY,23,1,?,2,64200,6420,19260,Honda,2007,38520
+833321,215,IN,500,1405.71,FEMALE,PhD,craft-repair,unmarried,38,833321,Single Vehicle Collision,Rear Collision,Total Loss,SC,10,1,?,0,70700,7070,14140,Volkswagen,2008,49490
+231127,289,IL,500,1173.37,FEMALE,PhD,handlers-cleaners,own-child,48,231127,Single Vehicle Collision,Front Collision,Total Loss,SC,1,1,?,1,42900,8580,0,Accura,1999,34320
+689034,138,OH,500,1093.07,FEMALE,PhD,other-service,wife,30,689034,Single Vehicle Collision,Front Collision,Major Damage,VA,0,1,?,2,83160,6930,13860,Volkswagen,2011,62370
+556415,392,OH,2000,1108.97,FEMALE,PhD,exec-managerial,not-in-family,50,556415,Single Vehicle Collision,Side Collision,Minor Damage,WV,4,1,NO,2,108030,16620,16620,Saab,2002,74790
+154982,107,IL,2000,1374.22,FEMALE,PhD,machine-op-inspct,other-relative,31,154982,Single Vehicle Collision,Rear Collision,Minor Damage,SC,16,1,NO,0,51260,9320,9320,Suburu,2002,32620
+263159,33,OH,500,1402.78,FEMALE,PhD,other-service,husband,32,263159,Single Vehicle Collision,Rear Collision,Minor Damage,NY,2,1,YES,0,56070,6230,12460,Toyota,2012,37380
+186934,285,IL,1000,1436.79,FEMALE,PhD,prof-specialty,wife,41,186934,Single Vehicle Collision,Rear Collision,Major Damage,SC,23,1,YES,2,108480,18080,18080,Volkswagen,2015,72320
+212674,440,OH,500,1050.76,MALE,PhD,transport-moving,wife,61,212674,Single Vehicle Collision,Side Collision,Major Damage,OH,21,1,?,2,53640,5960,5960,Nissan,2004,41720
+500639,197,OH,1000,1324.78,FEMALE,PhD,prof-specialty,not-in-family,41,500639,Single Vehicle Collision,Front Collision,Major Damage,NC,6,1,NO,2,76400,15280,7640,Volkswagen,1997,53480
+156636,261,IN,1000,870.55,MALE,PhD,prof-specialty,unmarried,46,156636,Single Vehicle Collision,Rear Collision,Minor Damage,SC,19,1,?,0,80280,13380,13380,Chevrolet,2013,53520
+378587,229,OH,2000,1107.59,MALE,PhD,tech-support,not-in-family,41,378587,Single Vehicle Collision,Side Collision,Major Damage,NY,23,1,NO,1,62640,10440,10440,Mercedes,2009,41760
+491170,142,IN,500,1412.76,MALE,PhD,armed-forces,wife,30,491170,Single Vehicle Collision,Side Collision,Minor Damage,WV,22,1,YES,2,67320,11220,11220,Volkswagen,1996,44880
+279422,227,OH,500,976.67,FEMALE,PhD,handlers-cleaners,unmarried,38,279422,Single Vehicle Collision,Rear Collision,Major Damage,SC,16,1,?,1,72200,14440,7220,BMW,2013,50540
+218109,47,IL,500,1161.31,FEMALE,PhD,exec-managerial,other-relative,34,218109,Single Vehicle Collision,Front Collision,Minor Damage,SC,23,1,YES,1,62920,11440,5720,Chevrolet,2012,45760
+987905,436,OH,2000,1407.01,MALE,PhD,tech-support,other-relative,58,987905,Single Vehicle Collision,Rear Collision,Major Damage,WV,10,1,?,0,59900,11980,5990,BMW,1997,41930
+235869,111,IL,500,1239.55,FEMALE,PhD,farming-fishing,own-child,29,235869,Single Vehicle Collision,Side Collision,Major Damage,SC,1,1,?,1,52800,4800,9600,Mercedes,1996,38400
+362407,209,IN,500,1264.99,MALE,PhD,transport-moving,husband,39,362407,Single Vehicle Collision,Side Collision,Minor Damage,VA,22,1,?,1,37800,8400,4200,Chevrolet,1995,25200
+439049,182,IN,1000,1022.42,MALE,PhD,other-service,husband,40,439049,Single Vehicle Collision,Front Collision,Total Loss,SC,13,1,YES,0,71100,7110,14220,Audi,2008,49770
+437573,93,OH,2000,1624.82,MALE,PhD,exec-managerial,unmarried,32,437573,Single Vehicle Collision,Side Collision,Minor Damage,WV,16,1,?,1,78120,17360,8680,BMW,2006,52080
+649800,150,OH,1000,1007,FEMALE,PhD,transport-moving,unmarried,37,649800,Single Vehicle Collision,Rear Collision,Total Loss,VA,9,1,NO,0,80080,12320,12320,Chevrolet,2013,55440
+107181,152,IN,500,942.51,FEMALE,PhD,transport-moving,wife,33,107181,Single Vehicle Collision,Side Collision,Major Damage,SC,16,1,YES,0,70400,6400,19200,Suburu,2001,44800
+475588,156,IL,2000,1134.08,MALE,PhD,other-service,husband,31,475588,Single Vehicle Collision,Front Collision,Major Damage,NC,3,1,?,2,59000,5900,5900,Ford,2013,47200
+496067,254,IL,500,1581.27,FEMALE,PhD,handlers-cleaners,own-child,41,496067,Single Vehicle Collision,Front Collision,Minor Damage,NY,8,1,YES,2,63470,5770,11540,BMW,1999,46160
+420810,22,OH,1000,1276.57,MALE,PhD,craft-repair,not-in-family,26,420810,Single Vehicle Collision,Rear Collision,Minor Damage,NY,3,1,YES,1,78900,15780,7890,Chevrolet,1995,55230
+746630,147,IN,500,1054.92,FEMALE,PhD,prof-specialty,own-child,31,746630,Single Vehicle Collision,Front Collision,Major Damage,NY,4,1,?,0,68240,8530,0,Toyota,2013,59710
+150181,129,IL,2000,927.23,FEMALE,PhD,sales,husband,30,150181,Single Vehicle Collision,Front Collision,Total Loss,SC,7,1,NO,1,74360,13520,6760,Suburu,2009,54080
+119513,82,IL,1000,1384.51,MALE,PhD,adm-clerical,not-in-family,27,119513,Single Vehicle Collision,Rear Collision,Major Damage,SC,14,1,NO,2,71680,8960,8960,Volkswagen,2007,53760
+287436,26,OH,1000,1484.48,MALE,PhD,armed-forces,not-in-family,42,287436,Single Vehicle Collision,Side Collision,Major Damage,SC,10,1,NO,2,63030,5730,11460,Saab,1996,45840
+596785,241,IL,2000,1104.5,FEMALE,PhD,machine-op-inspct,unmarried,45,596785,Single Vehicle Collision,Rear Collision,Minor Damage,SC,5,1,NO,2,91650,14100,14100,Accura,2011,63450
+413192,163,IN,2000,1453.92,FEMALE,PhD,other-service,other-relative,38,413192,Single Vehicle Collision,Side Collision,Minor Damage,NY,13,1,YES,2,79500,15900,7950,Accura,1995,55650
+990493,149,IL,500,1415.68,MALE,PhD,prof-specialty,own-child,37,990493,Single Vehicle Collision,Side Collision,Total Loss,WV,17,1,YES,0,64800,10800,5400,Audi,1999,48600
+414519,78,IN,1000,1554.64,MALE,PhD,protective-serv,own-child,31,414519,Single Vehicle Collision,Front Collision,Major Damage,WV,21,1,NO,1,55660,5060,10120,Honda,2009,40480
+907012,179,OH,2000,1246.68,FEMALE,PhD,priv-house-serv,own-child,32,907012,Single Vehicle Collision,Front Collision,Minor Damage,NY,10,1,?,0,53100,5900,5900,Suburu,2006,41300
+776950,230,IL,1000,1060.74,MALE,PhD,tech-support,own-child,37,776950,Single Vehicle Collision,Rear Collision,Major Damage,SC,15,1,YES,2,49100,9820,4910,Suburu,1996,34370
+613226,86,IN,2000,1595.07,MALE,PhD,transport-moving,unmarried,28,613226,Single Vehicle Collision,Side Collision,Minor Damage,VA,19,1,YES,0,70920,11820,11820,Jeep,2002,47280
+227811,256,IL,2000,1415.74,FEMALE,PhD,armed-forces,unmarried,41,227811,Single Vehicle Collision,Front Collision,Major Damage,OH,5,1,?,1,63400,6340,6340,Chevrolet,2014,50720
+524215,90,OH,2000,951.27,FEMALE,PhD,other-service,not-in-family,31,524215,Single Vehicle Collision,Rear Collision,Total Loss,SC,2,1,YES,1,75790,13780,6890,Accura,2007,55120
+505969,342,OH,500,1722.95,MALE,PhD,transport-moving,not-in-family,49,505969,Single Vehicle Collision,Rear Collision,Minor Damage,WV,3,1,?,2,76700,7670,7670,Suburu,2006,61360
+249048,261,IL,1000,1254.18,FEMALE,PhD,prof-specialty,other-relative,45,249048,Single Vehicle Collision,Rear Collision,Minor Damage,SC,16,1,YES,0,62590,11380,11380,Volkswagen,2003,39830
+908935,245,IL,1000,1361.45,MALE,PhD,handlers-cleaners,unmarried,40,908935,Single Vehicle Collision,Rear Collision,Minor Damage,OH,12,1,YES,0,82170,7470,7470,Suburu,1999,67230
+163161,298,IL,2000,1338.5,FEMALE,PhD,machine-op-inspct,other-relative,47,163161,Single Vehicle Collision,Front Collision,Major Damage,NY,1,1,?,0,70590,10860,10860,Saab,2000,48870
+924318,5,IL,2000,1137.02,FEMALE,PhD,farming-fishing,not-in-family,26,924318,Single Vehicle Collision,Rear Collision,Total Loss,WV,22,1,YES,1,88110,16020,16020,Audi,2003,56070
+319232,164,IL,2000,1269.76,FEMALE,PhD,transport-moving,not-in-family,38,319232,Single Vehicle Collision,Rear Collision,Minor Damage,NY,4,1,NO,1,90000,18000,9000,Ford,2015,63000
+636550,212,IL,500,1315.68,MALE,PhD,priv-house-serv,wife,42,636550,Single Vehicle Collision,Rear Collision,Total Loss,NC,14,1,NO,2,42300,4700,4700,Saab,1996,32900
+790442,106,OH,500,538.17,FEMALE,PhD,transport-moving,own-child,30,790442,Single Vehicle Collision,Rear Collision,Total Loss,NC,23,1,NO,2,51120,5680,5680,Mercedes,2005,39760
+374545,149,IN,500,664.86,FEMALE,PhD,craft-repair,wife,34,374545,Single Vehicle Collision,Rear Collision,Total Loss,WV,3,1,?,0,105040,16160,16160,Dodge,1999,72720
+950542,237,OH,500,911.53,FEMALE,PhD,sales,husband,43,950542,Single Vehicle Collision,Rear Collision,Major Damage,WV,23,1,NO,0,59200,0,11840,Chevrolet,1998,47360
+424862,264,OH,500,1411.3,MALE,PhD,prof-specialty,unmarried,41,424862,Single Vehicle Collision,Rear Collision,Minor Damage,PA,4,1,NO,1,60390,10980,5490,BMW,2004,43920
+608039,193,IL,500,1155.38,FEMALE,PhD,handlers-cleaners,not-in-family,40,608039,Single Vehicle Collision,Side Collision,Minor Damage,NY,6,1,NO,0,63900,6390,6390,Accura,2001,51120
+327856,27,OH,500,1008.38,FEMALE,PhD,adm-clerical,other-relative,32,327856,Single Vehicle Collision,Front Collision,Total Loss,SC,11,1,NO,1,61500,12300,6150,Dodge,2013,43050
+200827,292,OH,500,1097.57,MALE,PhD,priv-house-serv,unmarried,44,200827,Single Vehicle Collision,Side Collision,Total Loss,SC,12,1,NO,1,61700,6170,6170,Saab,2005,49360
+149367,453,IN,500,1298.91,MALE,PhD,craft-repair,unmarried,60,149367,Single Vehicle Collision,Front Collision,Major Damage,NC,0,1,YES,0,70000,14000,7000,Ford,2015,49000
+203914,134,OH,1000,1000.06,FEMALE,PhD,farming-fishing,wife,32,203914,Single Vehicle Collision,Side Collision,Total Loss,NY,17,1,?,1,82720,7520,15040,Audi,2014,60160
+485665,27,IL,500,1442.99,FEMALE,PhD,other-service,own-child,33,485665,Single Vehicle Collision,Front Collision,Total Loss,WV,21,1,NO,1,27700,2770,2770,Toyota,2012,22160
+130156,322,IL,2000,1277.12,FEMALE,PhD,armed-forces,own-child,49,130156,Single Vehicle Collision,Rear Collision,Major Damage,WV,18,1,?,0,42240,7680,7680,Chevrolet,2007,26880
+599262,304,IN,1000,1525.86,FEMALE,PhD,craft-repair,own-child,49,599262,Single Vehicle Collision,Side Collision,Minor Damage,NC,2,1,YES,1,73370,13340,6670,Saab,2013,53360
+623648,11,IL,2000,1470.06,MALE,PhD,other-service,husband,39,623648,Single Vehicle Collision,Front Collision,Total Loss,WV,22,1,YES,0,65790,7310,7310,Saab,2007,51170
+553565,257,IN,2000,929.7,FEMALE,PhD,handlers-cleaners,husband,43,553565,Single Vehicle Collision,Front Collision,Total Loss,VA,12,1,?,2,63240,10540,5270,Mercedes,2005,47430
+804608,136,OH,1000,855.14,FEMALE,PhD,craft-repair,not-in-family,33,804608,Single Vehicle Collision,Side Collision,Minor Damage,NC,23,1,YES,0,30700,3070,6140,Toyota,2015,21490
+710741,286,IL,500,1106.77,FEMALE,College,prof-specialty,other-relative,41,710741,Parked Car,?,Trivial Damage,WV,3,1,?,2,5000,500,500,Dodge,2003,4000
+679370,31,IL,2000,1318.24,FEMALE,College,prof-specialty,not-in-family,36,679370,Parked Car,?,Trivial Damage,WV,9,1,NO,0,4700,940,470,Dodge,2002,3290
+448642,40,IN,1000,1248.25,FEMALE,College,sales,own-child,39,448642,Parked Car,?,Minor Damage,VA,8,1,NO,0,8760,1460,1460,BMW,2013,5840
+552788,101,IL,1000,1313.64,FEMALE,College,priv-house-serv,unmarried,33,552788,Parked Car,?,Trivial Damage,NY,3,1,YES,1,4290,780,390,Audi,1997,3120
+557218,101,IL,500,982.7,FEMALE,College,transport-moving,unmarried,27,557218,Parked Car,?,Minor Damage,SC,9,1,NO,1,5170,940,470,Toyota,2001,3760
+669501,441,IN,500,1270.29,MALE,College,armed-forces,husband,55,669501,Parked Car,?,Minor Damage,VA,4,1,NO,0,6400,640,640,Honda,2002,5120
+419954,247,IL,500,806.31,FEMALE,College,handlers-cleaners,wife,39,419954,Parked Car,?,Trivial Damage,SC,3,1,?,2,3300,600,0,Dodge,2003,2700
+740019,295,OH,1000,1148.73,FEMALE,College,machine-op-inspct,wife,48,740019,Parked Car,?,Trivial Damage,WV,6,1,?,1,5400,900,900,Saab,1999,3600
+944953,25,OH,1000,1540.91,MALE,College,adm-clerical,wife,38,944953,Vehicle Theft,?,Trivial Damage,VA,0,1,NO,1,4320,480,960,Toyota,1995,2880
+985924,265,OH,500,972.5,FEMALE,College,exec-managerial,unmarried,45,985924,Vehicle Theft,?,Trivial Damage,NC,3,1,NO,2,3190,290,580,Ford,1995,2320
+246882,239,IL,1000,969.5,MALE,College,exec-managerial,not-in-family,42,246882,Vehicle Theft,?,Trivial Damage,NC,10,1,NO,0,5600,700,700,Audi,2007,4200
+394975,217,IN,1000,1530.52,MALE,College,armed-forces,not-in-family,39,394975,Vehicle Theft,?,Minor Damage,WV,8,1,?,2,4300,430,430,Toyota,2000,3440
+872814,295,IL,500,1141.62,MALE,College,prof-specialty,husband,49,872814,Vehicle Theft,?,Minor Damage,WV,4,1,YES,1,4320,480,480,Mercedes,2002,3360
+618682,185,IN,2000,1421.59,MALE,College,other-service,own-child,35,618682,Vehicle Theft,?,Trivial Damage,WV,8,1,?,2,4950,900,450,Ford,2011,3600
+290162,150,IN,1000,1677.26,MALE,College,sales,own-child,30,290162,Vehicle Theft,?,Trivial Damage,WV,7,1,YES,1,4590,510,510,Volkswagen,2013,3570
+634499,286,IL,1000,999.43,MALE,College,prof-specialty,wife,41,634499,Vehicle Theft,?,Trivial Damage,WV,3,1,YES,2,4100,820,410,Chevrolet,2009,2870
+171254,285,OH,2000,1512.58,FEMALE,College,sales,other-relative,43,171254,Vehicle Theft,?,Minor Damage,SC,7,1,?,1,2520,280,280,BMW,1997,1960
+740518,0,OH,1000,1377.04,MALE,College,tech-support,wife,32,740518,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,6,4,?,1,39720,6620,6620,Accura,2002,26480
+364055,30,IN,500,1488.26,FEMALE,College,machine-op-inspct,wife,36,364055,Multi-vehicle Collision,Side Collision,Total Loss,WV,17,3,NO,2,57900,5790,5790,Saab,2008,46320
+753452,85,IL,2000,1174.14,MALE,College,priv-house-serv,unmarried,27,753452,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,14,4,YES,0,59070,10740,5370,Toyota,2012,42960
+939905,350,OH,500,1495.1,MALE,College,other-service,wife,54,939905,Multi-vehicle Collision,Side Collision,Total Loss,SC,15,3,NO,0,93480,15580,7790,Chevrolet,2014,70110
+913337,356,OH,500,912.3,MALE,College,prof-specialty,wife,54,913337,Multi-vehicle Collision,Front Collision,Major Damage,SC,23,3,NO,2,68750,12500,12500,Audi,2007,43750
+926665,247,OH,2000,1101.51,FEMALE,College,farming-fishing,not-in-family,44,926665,Multi-vehicle Collision,Front Collision,Minor Damage,NY,22,3,NO,2,69480,11580,11580,Chevrolet,2008,46320
+521592,140,IL,500,1354.2,FEMALE,College,adm-clerical,wife,30,521592,Multi-vehicle Collision,Side Collision,Minor Damage,SC,4,4,?,0,60170,5470,10940,Nissan,2006,43760
+525862,50,OH,2000,1188.51,MALE,College,handlers-cleaners,unmarried,44,525862,Multi-vehicle Collision,Front Collision,Total Loss,NY,15,3,?,1,61100,6110,12220,Dodge,2008,42770
+958857,41,IN,1000,1226.83,FEMALE,College,exec-managerial,not-in-family,25,958857,Multi-vehicle Collision,Side Collision,Major Damage,SC,12,3,YES,2,45120,0,5640,Accura,2011,39480
+935442,176,OH,500,1365.46,MALE,College,armed-forces,unmarried,39,935442,Multi-vehicle Collision,Side Collision,Minor Damage,SC,14,3,NO,2,44280,4920,4920,Chevrolet,2008,34440
+527945,319,IN,500,1307.11,MALE,College,transport-moving,not-in-family,47,527945,Multi-vehicle Collision,Front Collision,Total Loss,WV,22,3,NO,0,59730,10860,10860,Audi,2005,38010
+761189,215,IN,500,1632.93,FEMALE,College,transport-moving,not-in-family,37,761189,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,7,3,NO,2,57120,9520,4760,Mercedes,2002,42840
+787351,320,IL,2000,1730.49,MALE,College,transport-moving,not-in-family,48,787351,Multi-vehicle Collision,Front Collision,Minor Damage,WV,13,3,NO,2,56160,4680,9360,Saab,1995,42120
+920554,133,IN,1000,1231.01,MALE,College,adm-clerical,husband,30,920554,Multi-vehicle Collision,Front Collision,Minor Damage,SC,19,3,NO,1,28440,3160,3160,Dodge,2007,22120
+944102,159,IN,2000,1462.76,FEMALE,College,craft-repair,husband,33,944102,Multi-vehicle Collision,Rear Collision,Major Damage,NY,23,3,YES,2,44880,8160,4080,Mercedes,2004,32640
+311783,193,OH,500,1233.85,FEMALE,College,handlers-cleaners,husband,40,311783,Multi-vehicle Collision,Side Collision,Total Loss,PA,23,3,?,2,64260,0,14280,Ford,1999,49980
+574637,411,IL,1000,1595.28,FEMALE,College,protective-serv,other-relative,56,574637,Multi-vehicle Collision,Side Collision,Major Damage,VA,23,3,?,0,38610,3510,3510,Volkswagen,2007,31590
+225865,97,IL,1000,1252.08,MALE,College,exec-managerial,not-in-family,26,225865,Multi-vehicle Collision,Rear Collision,Major Damage,VA,4,2,YES,2,50400,10080,5040,Honda,2000,35280
+987524,178,IL,500,1381.14,FEMALE,College,other-service,wife,38,987524,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,10,3,NO,0,57200,5200,10400,BMW,2011,41600
+457244,419,IL,2000,736.07,MALE,College,transport-moving,unmarried,53,457244,Multi-vehicle Collision,Side Collision,Minor Damage,SC,17,4,?,0,62280,5190,10380,Suburu,2012,46710
+998192,210,IL,500,1433.24,FEMALE,College,exec-managerial,not-in-family,35,998192,Multi-vehicle Collision,Side Collision,Total Loss,WV,11,3,NO,2,24570,2730,2730,Saab,2006,19110
+658816,103,IN,1000,1537.33,FEMALE,College,handlers-cleaners,husband,27,658816,Multi-vehicle Collision,Front Collision,Minor Damage,NY,11,3,YES,1,77700,7770,15540,Jeep,2008,54390
+179538,174,IN,2000,1124.43,FEMALE,College,farming-fishing,own-child,33,179538,Multi-vehicle Collision,Rear Collision,Total Loss,WV,14,3,YES,0,44200,8840,4420,Saab,1995,30940
+991480,446,IN,2000,1373.21,MALE,College,adm-clerical,unmarried,57,991480,Multi-vehicle Collision,Front Collision,Total Loss,SC,10,3,NO,0,62800,6280,12560,Jeep,2012,43960
+751905,232,OH,500,1483.91,MALE,College,machine-op-inspct,husband,43,751905,Multi-vehicle Collision,Rear Collision,Major Damage,NY,17,3,NO,0,70600,7060,14120,Volkswagen,2013,49420
+448961,37,IL,500,1475.93,FEMALE,College,prof-specialty,husband,23,448961,Multi-vehicle Collision,Side Collision,Minor Damage,SC,17,3,YES,1,51660,5740,5740,Dodge,2010,40180
+215534,184,IL,1000,1437.53,FEMALE,College,transport-moving,not-in-family,38,215534,Multi-vehicle Collision,Side Collision,Minor Damage,PA,6,3,?,0,53730,11940,5970,Dodge,2013,35820
+347984,157,OH,2000,617.11,MALE,College,other-service,other-relative,32,347984,Multi-vehicle Collision,Front Collision,Major Damage,VA,14,3,?,1,50800,10160,5080,Mercedes,2013,35560
+655787,231,IL,2000,972.47,MALE,College,protective-serv,wife,43,655787,Multi-vehicle Collision,Front Collision,Minor Damage,PA,15,3,YES,2,77100,7710,15420,Audi,2010,53970
+149839,146,OH,1000,1457.65,FEMALE,College,armed-forces,own-child,31,149839,Multi-vehicle Collision,Rear Collision,Major Damage,VA,0,3,NO,1,52380,5820,5820,Toyota,2010,40740
+424358,4,OH,500,1282.93,FEMALE,College,exec-managerial,other-relative,34,424358,Multi-vehicle Collision,Side Collision,Major Damage,WV,0,4,?,0,66880,6080,12160,Chevrolet,1996,48640
+529398,281,OH,1000,1515.18,MALE,College,priv-house-serv,other-relative,43,529398,Multi-vehicle Collision,Side Collision,Minor Damage,SC,21,3,NO,1,60190,9260,9260,BMW,1999,41670
+356768,32,IL,500,1006.77,FEMALE,College,other-service,own-child,38,356768,Multi-vehicle Collision,Side Collision,Minor Damage,SC,15,3,YES,2,70900,14180,7090,BMW,1997,49630
+898519,233,OH,1000,954.18,FEMALE,College,tech-support,other-relative,43,898519,Multi-vehicle Collision,Side Collision,Minor Damage,SC,17,3,?,2,42500,8500,4250,Nissan,2000,29750
+297816,48,IL,2000,1400.74,MALE,College,sales,other-relative,44,297816,Multi-vehicle Collision,Rear Collision,Major Damage,NC,23,3,YES,0,87300,17460,17460,Jeep,2013,52380
+435784,110,OH,1000,1573.93,MALE,College,other-service,other-relative,28,435784,Multi-vehicle Collision,Side Collision,Minor Damage,NY,20,3,YES,0,65040,10840,10840,Suburu,2010,43360
+444422,59,IL,2000,782.23,MALE,College,protective-serv,other-relative,40,444422,Multi-vehicle Collision,Front Collision,Total Loss,OH,0,3,?,0,51570,5730,11460,BMW,2010,34380
+154280,73,IL,1000,1447.78,MALE,College,protective-serv,wife,29,154280,Multi-vehicle Collision,Rear Collision,Total Loss,SC,15,3,YES,1,44910,4990,4990,Dodge,2001,34930
+804751,189,OH,2000,838.02,FEMALE,College,tech-support,own-child,39,804751,Multi-vehicle Collision,Rear Collision,Minor Damage,VA,7,3,?,2,64400,6440,6440,Dodge,1997,51520
+265026,61,IN,500,922.67,FEMALE,College,priv-house-serv,other-relative,24,265026,Multi-vehicle Collision,Rear Collision,Major Damage,SC,15,3,YES,2,65520,9360,9360,Toyota,2011,46800
+420948,180,IL,500,1272.46,MALE,College,prof-specialty,wife,36,420948,Multi-vehicle Collision,Front Collision,Minor Damage,NY,7,3,YES,2,69630,12660,6330,Toyota,1998,50640
+976645,264,IL,500,1047.06,MALE,College,exec-managerial,wife,44,976645,Multi-vehicle Collision,Rear Collision,Major Damage,SC,20,3,NO,0,69850,12700,6350,Ford,1999,50800
+607687,123,OH,2000,1270.21,FEMALE,College,sales,husband,34,607687,Multi-vehicle Collision,Side Collision,Total Loss,PA,13,3,NO,1,55260,6140,0,Nissan,2000,49120
+824540,22,OH,2000,1053.24,FEMALE,College,prof-specialty,other-relative,25,824540,Multi-vehicle Collision,Front Collision,Total Loss,NC,0,4,YES,1,77130,8570,17140,Accura,1995,51420
+984456,66,IN,500,484.67,FEMALE,College,adm-clerical,wife,30,984456,Multi-vehicle Collision,Front Collision,Major Damage,SC,2,3,?,0,65560,11920,11920,Volkswagen,2015,41720
+769602,322,IL,1000,1156.19,FEMALE,College,machine-op-inspct,husband,44,769602,Multi-vehicle Collision,Side Collision,Major Damage,NY,20,3,YES,0,49400,9880,4940,Jeep,2010,34580
+629918,174,IL,2000,1278.75,FEMALE,College,tech-support,own-child,36,629918,Multi-vehicle Collision,Rear Collision,Total Loss,NY,21,3,?,2,65400,10900,10900,Dodge,2012,43600
+664732,242,IL,2000,1396.89,FEMALE,College,priv-house-serv,other-relative,44,664732,Multi-vehicle Collision,Front Collision,Minor Damage,SC,15,3,NO,1,66900,6690,13380,Suburu,1999,46830
+166264,270,OH,1000,1038.09,FEMALE,College,handlers-cleaners,husband,45,166264,Multi-vehicle Collision,Front Collision,Minor Damage,NY,18,3,NO,1,89400,14900,7450,Suburu,1998,67050
+939631,355,OH,2000,1273.7,MALE,College,other-service,husband,47,939631,Multi-vehicle Collision,Front Collision,Major Damage,WV,19,3,NO,2,62800,6280,6280,Audi,2003,50240
+648852,440,IL,1000,995.55,MALE,College,protective-serv,wife,57,648852,Multi-vehicle Collision,Rear Collision,Major Damage,SC,19,3,YES,0,68200,12400,12400,Jeep,2007,43400
+267808,126,IL,2000,916.13,MALE,College,sales,unmarried,30,267808,Multi-vehicle Collision,Rear Collision,Total Loss,NY,16,3,YES,2,74160,6180,12360,Mercedes,2002,55620
+577810,369,OH,2000,1589.54,MALE,College,handlers-cleaners,husband,55,577810,Multi-vehicle Collision,Rear Collision,Minor Damage,VA,6,3,?,2,85300,17060,8530,Toyota,2003,59710
